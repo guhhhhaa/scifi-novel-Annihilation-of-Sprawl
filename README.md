@@ -14,7 +14,5 @@
 
 {% embed url="https://drive.google.com/drive/folders/0BwELygENvsZXQ184NjViNTYzVXc?usp=sharing" %}
 
-{% embed url="https://www.processon.com/view/link/5f5063977d9c08028bd0ed1e" %}
-
 {% embed url="https://www.processon.com/view/link/5f5063b8e401fd60bddca9fd" %}
 
