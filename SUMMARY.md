@@ -29,7 +29,7 @@
   * [第六章 网吧角落](man-sheng-yan-mie-chen-ying/di-liu-zhang-wang-ba-de-jiao-luo.md)
   * [第七章 游戏竞技场](man-sheng-yan-mie-chen-ying/di-qi-zhang-jing-ji-chang.md)
   * [第八章 最强对手](man-sheng-yan-mie-chen-ying/di-ba-zhang-zui-qiang-dui-shou.md)
-  * [第七章（3）逃亡](man-sheng-yan-mie-chen-ying/untitled-2.md)
+  * [第九章 逃亡](man-sheng-yan-mie-chen-ying/untitled-2.md)
   * [第十章 重逢舞妄](man-sheng-yan-mie-chen-ying/zhong-feng.md)
   * [第十一章 地铁追杀](man-sheng-yan-mie-chen-ying/di-shi-yi-zhang-di-tie-zhui-sha.md)
   * [第十二章 校园生活](man-sheng-yan-mie-chen-ying/di-shi-zhang-shang-ke.md)
