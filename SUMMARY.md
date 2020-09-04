@@ -18,6 +18,7 @@
     * [第十章 重逢](zheng-wen/man-sheng-yan-mie-chen-ying/zhong-feng.md)
     * [第十一章 校园生活](zheng-wen/man-sheng-yan-mie-chen-ying/di-shi-zhang-shang-ke.md)
     * [第十二章 地铁逃亡](zheng-wen/man-sheng-yan-mie-chen-ying/di-shi-zhang-tao-wang-zhu-yi.md)
+    * [草稿1](zheng-wen/man-sheng-yan-mie-chen-ying/cao-gao-1.md)
   * [《蔓生湮灭·边界》——往生界](zheng-wen/zheng-wen/README.md)
     * [第一章](zheng-wen/zheng-wen/di-yi-zhang.md)
     * [第二章](zheng-wen/zheng-wen/di-er-zhang.md)
