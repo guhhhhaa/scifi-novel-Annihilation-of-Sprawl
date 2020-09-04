@@ -18,6 +18,7 @@
     * [第十章 校园生活](zheng-wen/man-sheng-yan-mie-chen-ying/di-shi-zhang-shang-ke.md)
     * [第十一章 地铁逃亡](zheng-wen/man-sheng-yan-mie-chen-ying/di-shi-zhang-tao-wang-zhu-yi.md)
     * [第十二章 晶格化](zheng-wen/man-sheng-yan-mie-chen-ying/untitled-2.md)
+    * [生电堆](zheng-wen/man-sheng-yan-mie-chen-ying/sheng-dian-dui.md)
   * [《蔓生湮灭·边界》——往生界](zheng-wen/zheng-wen/README.md)
     * [第一章](zheng-wen/zheng-wen/di-yi-zhang.md)
     * [第二章](zheng-wen/zheng-wen/di-er-zhang.md)
