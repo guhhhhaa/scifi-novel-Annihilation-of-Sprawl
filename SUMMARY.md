@@ -34,7 +34,7 @@
   * [第十一章 地铁追杀](man-sheng-yan-mie-chen-ying/di-shi-yi-zhang-di-tie-zhui-sha.md)
   * [第十二章 校园生活](man-sheng-yan-mie-chen-ying/di-shi-zhang-shang-ke.md)
   * [第十三章 机房电脑](man-sheng-yan-mie-chen-ying/di-jiu-zhang-xue-xiao-de-jiu-dian-nao.md)
-  * [第十四章 坎的挣扎](man-sheng-yan-mie-chen-ying/di-shi-zhang-tao-wang-zhu-yi.md)
+  * [第十四章 你好世界](man-sheng-yan-mie-chen-ying/di-shi-zhang-tao-wang-zhu-yi.md)
 * [《蔓生湮灭·边界》——往生界](zheng-wen-1/README.md)
   * [第四章](zheng-wen-1/di-si-zhang.md)
   * [第五章](zheng-wen-1/di-wu-zhang.md)
