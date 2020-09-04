@@ -18,7 +18,7 @@
     * [第十章 重逢](zheng-wen/man-sheng-yan-mie-chen-ying/zhong-feng.md)
     * [第十一章 校园生活](zheng-wen/man-sheng-yan-mie-chen-ying/di-shi-zhang-shang-ke.md)
     * [第九章 学校旧电脑](zheng-wen/man-sheng-yan-mie-chen-ying/di-jiu-zhang-xue-xiao-de-jiu-dian-nao.md)
-    * [第十二章 谷妄蓝](zheng-wen/man-sheng-yan-mie-chen-ying/di-shi-zhang-tao-wang-zhu-yi.md)
+    * [第十二章 坎的挣扎](zheng-wen/man-sheng-yan-mie-chen-ying/di-shi-zhang-tao-wang-zhu-yi.md)
   * [《蔓生湮灭·边界》——往生界](zheng-wen/zheng-wen/README.md)
     * [第四章](zheng-wen/zheng-wen/di-si-zhang.md)
     * [第五章](zheng-wen/zheng-wen/di-wu-zhang.md)
