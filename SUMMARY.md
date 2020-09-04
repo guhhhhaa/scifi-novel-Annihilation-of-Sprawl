@@ -27,6 +27,7 @@
     * [生电堆](zheng-wen/zheng-wen/sheng-dian-dui.md)
     * [第十二章 晶格化](zheng-wen/zheng-wen/untitled-2.md)
     * [未确定片段](zheng-wen/zheng-wen/wei-que-ding-pian-duan.md)
+    * [游戏世界的扩写](zheng-wen/zheng-wen/you-xi-shi-jie-de-kuo-xie.md)
   * [《蔓生湮灭·幻妖》——玄冥界](zheng-wen/man-sheng-yan-mie-huan-yao/README.md)
     * [正文](zheng-wen/man-sheng-yan-mie-huan-yao/zheng-wen.md)
   * [《蔓生湮灭·置换》——若尘界](zheng-wen/man-sheng-yan-mie-zhi-huan/README.md)
