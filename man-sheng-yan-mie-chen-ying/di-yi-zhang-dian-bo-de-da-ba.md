@@ -1,6 +1,6 @@
 # 第一章 颠簸的大巴
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image.png)
 
 陈颖侧着头，望着大巴车窗外如游龙一般的雨水。 
 
