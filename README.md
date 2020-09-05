@@ -1,10 +1,10 @@
 # scifi-novel
 
-《蔓生湮灭·尘影》—— 灵隐界，软件与信息技术[https://read.douban.com/column/8016582/](https://read.douban.com/column/8016582/)
+《蔓生湮灭·尘影》—— 灵隐界，软件与信息[https://read.douban.com/column/8016582/](https://read.douban.com/column/8016582/)
 
-《蔓生湮灭·边界》—— 往生界，生物与纳米技术[https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg](https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg)
+《蔓生湮灭·边界》—— 往生界，生物与纳米[https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg](https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg)
 
-《蔓生湮灭·幻妖》—— 玄冥界，量子技术
+《蔓生湮灭·幻妖》—— 玄冥界，量子
 
 《蔓生湮灭·置换》—— 若尘界，废土
 
