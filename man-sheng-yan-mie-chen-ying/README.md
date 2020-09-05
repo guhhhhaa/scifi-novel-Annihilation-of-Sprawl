@@ -1,6 +1,6 @@
 # 《蔓生湮灭·尘影》——灵隐界
 
-![&#x5C01;&#x9762;](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-12.27.33.png)
+![&#x5C01;&#x9762;](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-12.33.45.png)
 
 ## 简介
 
