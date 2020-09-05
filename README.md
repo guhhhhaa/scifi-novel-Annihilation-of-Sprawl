@@ -8,6 +8,8 @@
 
 《蔓生湮灭·边界》—— 往生界，生物与纳米[https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg](https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg)
 
+![](.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-12.45.04.png)
+
 《蔓生湮灭·幻妖》—— 玄冥界，量子
 
 《蔓生湮灭·置换》—— 若尘界，废土
