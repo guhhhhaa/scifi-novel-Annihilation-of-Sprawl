@@ -2,7 +2,7 @@
 
 ## 封面
 
-![](../.gitbook/assets/a4.png)
+![](../.gitbook/assets/1.png)
 
 ## 简介
 
