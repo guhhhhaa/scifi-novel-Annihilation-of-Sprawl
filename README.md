@@ -2,9 +2,9 @@
 
 《蔓生湮灭·尘影》—— 灵隐界，软件与信息
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-12.33.45.png)
-
 [https://read.douban.com/column/8016582/](https://read.douban.com/column/8016582/)
+
+![](.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-12.33.45.png)
 
 《蔓生湮灭·边界》—— 往生界，生物与纳米[https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg](https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg)
 
