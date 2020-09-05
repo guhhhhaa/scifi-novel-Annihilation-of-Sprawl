@@ -4,7 +4,7 @@
 
 [https://read.douban.com/column/8016582/](https://read.douban.com/column/8016582/)
 
-![](.gitbook/assets/a4.png)
+![](.gitbook/assets/1.png)
 
 《蔓生湮灭·边界》—— 往生界，生物与纳米[https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg](https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg)
 
