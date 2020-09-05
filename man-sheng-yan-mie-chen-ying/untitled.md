@@ -1,5 +1,7 @@
 # 第二章 湿滑的入学
 
+![](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.34.19.png)
+
 ![](../.gitbook/assets/26215af191fe70b80122284edc9bee48.jpeg)
 
 出了站台，陈颖站上了磁悬浮人行轨道。
