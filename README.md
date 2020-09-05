@@ -8,7 +8,7 @@
 
 《蔓生湮灭·边界》—— 往生界，生物与纳米[https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg](https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg)
 
-![](.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-1.09.28.png)
+![](.gitbook/assets/2.png)
 
 《蔓生湮灭·幻妖》—— 玄冥界，量子
 
