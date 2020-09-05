@@ -12,9 +12,15 @@
 
 《蔓生湮灭·幻妖》—— 玄冥界，量子
 
+![](.gitbook/assets/3.png)
+
 《蔓生湮灭·置换》—— 若尘界，废土
 
+![](.gitbook/assets/4.png)
+
 《蔓生湮灭·言零》—— 言晦界，远程传送与超时空干涉
+
+![](.gitbook/assets/5.png)
 
 
 
