@@ -2,7 +2,7 @@
 
 * [蔓生湮灭·封面](README.md)
 * [《蔓生湮灭·尘影》——灵隐界](man-sheng-yan-mie-chen-ying/README.md)
-  * [第零章 0和1的世界](man-sheng-yan-mie-chen-ying/di-132-zhang.md)
+  * [序章 0和1的世界](man-sheng-yan-mie-chen-ying/di-132-zhang.md)
   * [第一章 颠簸的大巴](man-sheng-yan-mie-chen-ying/di-yi-zhang-dian-bo-de-da-ba.md)
   * [第二章 湿滑的入学](man-sheng-yan-mie-chen-ying/untitled.md)
   * [第三章 古怪的交易](man-sheng-yan-mie-chen-ying/untitled-1.md)
