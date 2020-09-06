@@ -72,4 +72,5 @@
     * [爬行者-故事线](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-2/pa-hang-zhe-gu-shi-xian.md)
     * [爬行者-世界观-历史](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-2/pa-hang-zhe-shi-jie-guan-li-shi.md)
   * [开发记录5](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-3.md)
+* [其他小说](qi-ta-xiao-shuo.md)
 
