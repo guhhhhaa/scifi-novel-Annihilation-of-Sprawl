@@ -4,13 +4,9 @@
 
 {% embed url="https://sites.google.com/view/guhhhhaa" %}
 
+## Github备份
 
-
-
-
-
-
-
+{% embed url="https://github.com/guhhhhaa/scifi-novel" %}
 
 ## 《蔓生湮灭·尘影》
 
