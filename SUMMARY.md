@@ -1,6 +1,6 @@
 # Table of contents
 
-* [蔓生湮灭·封面](README.md)
+* [蔓生湮灭](README.md)
 * [《蔓生湮灭·尘影》——灵隐界](man-sheng-yan-mie-chen-ying/README.md)
   * [序章 0和1的世界](man-sheng-yan-mie-chen-ying/0-he-1-de-shi-jie.md)
   * [颠簸的大巴](man-sheng-yan-mie-chen-ying/di-yi-zhang-dian-bo-de-da-ba.md)
