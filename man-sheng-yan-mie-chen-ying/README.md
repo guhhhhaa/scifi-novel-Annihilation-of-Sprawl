@@ -16,11 +16,3 @@
 
 {% embed url="https://docs.google.com/spreadsheets/d/1CGfx50yXWtumIh37bt-6gem7Ir8yyNrjGgU9tFluIrY/edit?usp=sharing" %}
 
-## 
-
-## 情节，环境
-
-### 虚拟世界
-
-#### 
-
