@@ -1,4 +1,4 @@
-# 第七章 游戏竞技场
+# 游戏竞技场
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.20.52.png)
 

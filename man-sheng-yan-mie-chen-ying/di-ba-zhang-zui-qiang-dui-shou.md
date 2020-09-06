@@ -1,4 +1,4 @@
-# 第八章 最强对手
+# 最强对手
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.14.34.png)
 

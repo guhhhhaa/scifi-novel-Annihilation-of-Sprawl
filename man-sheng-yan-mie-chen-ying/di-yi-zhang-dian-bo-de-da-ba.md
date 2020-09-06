@@ -1,4 +1,4 @@
-# 第一章 颠簸的大巴
+# 颠簸的大巴
 
 ![](../.gitbook/assets/image.png)
 

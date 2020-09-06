@@ -1,4 +1,4 @@
-# 第八章 遗忘的历史
+# 试炼通道
 
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-9.15.05.png)
 
