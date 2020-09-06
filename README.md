@@ -4,6 +4,12 @@
 
 {% embed url="https://sites.google.com/view/guhhhhaa" %}
 
+## 贴吧讨论区
+
+科幻世界吧：[https://tieba.baidu.com/p/6930520276](https://tieba.baidu.com/p/6930520276)
+
+科幻吧：[https://tieba.baidu.com/p/6930543193](https://tieba.baidu.com/p/6930543193)
+
 ## Github备份
 
 {% embed url="https://github.com/guhhhhaa/scifi-novel" %}
@@ -14,31 +20,21 @@
 
 [https://read.douban.com/column/8016582/](https://read.douban.com/column/8016582/)
 
-![](.gitbook/assets/1.png)
-
 ## 《蔓生湮灭·边界》
 
 —— 往生界，生物与纳米[https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg](https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg)
-
-![](.gitbook/assets/2.png)
 
 ## 《蔓生湮灭·幻妖》
 
 —— 玄冥界，量子
 
-![](.gitbook/assets/3%20%281%29.png)
-
 ## 《蔓生湮灭·置换》
 
 —— 若尘界，废土
 
-![](.gitbook/assets/4.png)
-
 ## 《蔓生湮灭·言零》
 
 —— 言晦界，远程传送与超时空干涉
-
-![](.gitbook/assets/5.png)
 
 {% embed url="https://www.processon.com/view/link/5f5063b8e401fd60bddca9fd" %}
 
