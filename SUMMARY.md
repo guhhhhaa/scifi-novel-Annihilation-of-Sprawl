@@ -2,7 +2,6 @@
 
 * [蔓生湮灭](README.md)
 * [《蔓生湮灭·尘影》——灵隐界](man-sheng-yan-mie-chen-ying/README.md)
-  * [Untitled](man-sheng-yan-mie-chen-ying/untitled-3.md)
   * [序章 0和1的世界](man-sheng-yan-mie-chen-ying/0-he-1-de-shi-jie.md)
   * [颠簸的大巴](man-sheng-yan-mie-chen-ying/di-yi-zhang-dian-bo-de-da-ba.md)
   * [湿滑的入学](man-sheng-yan-mie-chen-ying/untitled.md)
@@ -14,7 +13,8 @@
   * [游戏竞技场](man-sheng-yan-mie-chen-ying/di-qi-zhang-jing-ji-chang.md)
   * [祭坛](man-sheng-yan-mie-chen-ying/ji-tan.md)
   * [最强对手](man-sheng-yan-mie-chen-ying/di-ba-zhang-zui-qiang-dui-shou.md)
-  * [逃亡](man-sheng-yan-mie-chen-ying/untitled-2.md)
+  * [仓促逃亡](man-sheng-yan-mie-chen-ying/untitled-2.md)
+  * [载体人工厂](man-sheng-yan-mie-chen-ying/zai-ti-ren-gong-chang.md)
   * [重逢舞妄](man-sheng-yan-mie-chen-ying/zhong-feng.md)
   * [地铁反杀](man-sheng-yan-mie-chen-ying/di-tie-fan-sha.md)
   * [博物馆后台](man-sheng-yan-mie-chen-ying/bo-wu-guan-hou-tai.md)
