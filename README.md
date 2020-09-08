@@ -4,6 +4,10 @@
 
 {% embed url="https://sites.google.com/view/guhhhhaa" %}
 
+## 豆瓣阅读
+
+[https://read.douban.com/column/8016582/](https://read.douban.com/column/8016582/)
+
 ## 贴吧讨论区
 
 科幻小说吧：[https://tieba.baidu.com/p/6931660956](https://tieba.baidu.com/p/6931660956)
