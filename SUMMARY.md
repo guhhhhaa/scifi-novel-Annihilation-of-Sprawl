@@ -23,6 +23,7 @@
   * [博物馆后台](man-sheng-yan-mie-chen-ying/bo-wu-guan-hou-tai.md)
   * [灰雾中的怪物](man-sheng-yan-mie-chen-ying/hui-wu-zhong-de-guai-wu.md)
   * [严厉的警告](man-sheng-yan-mie-chen-ying/yin-hun-bu-san.md)
+  * [合成尘坞石与合成GIC](man-sheng-yan-mie-chen-ying/he-cheng-chen-wu-shi-yu-he-cheng-gic.md)
   * [Untitled](man-sheng-yan-mie-chen-ying/untitled-4.md)
 * [《蔓生湮灭·边界》——往生界](zheng-wen-1/README.md)
   * [Untitled](zheng-wen-1/untitled.md)
