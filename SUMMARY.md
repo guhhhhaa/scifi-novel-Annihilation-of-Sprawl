@@ -21,6 +21,7 @@
   * [人机双生](man-sheng-yan-mie-chen-ying/ren-ji-shuang-sheng.md)
   * [地铁反杀](man-sheng-yan-mie-chen-ying/di-tie-fan-sha.md)
   * [博物馆后台](man-sheng-yan-mie-chen-ying/bo-wu-guan-hou-tai.md)
+  * [灰雾中的怪物](man-sheng-yan-mie-chen-ying/hui-wu-zhong-de-guai-wu.md)
   * [Untitled](man-sheng-yan-mie-chen-ying/untitled-4.md)
 * [《蔓生湮灭·边界》——往生界](zheng-wen-1/README.md)
   * [Untitled](zheng-wen-1/untitled.md)
