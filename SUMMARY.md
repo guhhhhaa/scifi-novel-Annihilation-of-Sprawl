@@ -16,7 +16,7 @@
   * [载体人工厂](man-sheng-yan-mie-chen-ying/zai-ti-ren-gong-chang.md)
   * [校园生活](man-sheng-yan-mie-chen-ying/di-shi-zhang-shang-ke.md)
   * [游戏幻觉](man-sheng-yan-mie-chen-ying/you-xi-huan-jue.md)
-  * [机房电脑](man-sheng-yan-mie-chen-ying/ji-fang-dian-nao.md)
+  * [机房死灵编码](man-sheng-yan-mie-chen-ying/ji-fang-dian-nao.md)
   * [重逢舞妄](man-sheng-yan-mie-chen-ying/zhong-feng.md)
   * [Untitled](man-sheng-yan-mie-chen-ying/untitled-3.md)
   * [地铁反杀](man-sheng-yan-mie-chen-ying/di-tie-fan-sha.md)
