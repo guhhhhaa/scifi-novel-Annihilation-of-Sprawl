@@ -56,6 +56,8 @@
 * [置换者的远航](zhi-huan-zhe-de-yuan-hang/README.md)
   * [虚幻世界的浮空城市](zhi-huan-zhe-de-yuan-hang/xu-huan-shi-jie-de-fu-kong-cheng-shi.md)
   * [在漆黑的宇宙中隐约可见一个微小的黑点](zhi-huan-zhe-de-yuan-hang/zai-qi-hei-de-yu-zhou-zhong-yin-yue-ke-jian-yi-ge-wei-xiao-de-hei-dian.md)
+  * [年轻人与探险队一起从断面尖锐而破碎的无数纳米熔柱之间穿过](zhi-huan-zhe-de-yuan-hang/nian-qing-ren-yu-tan-xian-dui-yi-qi-cong-duan-mian-jian-rui-er-po-sui-de-wu-shu-na-mi-rong-zhu-zhi-j.md)
+  * [整个通道的内部传来一种强大的吸引力](zhi-huan-zhe-de-yuan-hang/zheng-ge-tong-dao-de-nei-bu-chuan-lai-yi-zhong-qiang-da-de-xi-yin-li.md)
 * [开发记录：设定](kai-fa-ji-lu-she-ding/README.md)
   * [开发记录1](kai-fa-ji-lu-she-ding/da-gang-1/README.md)
     * [蔓生湮灭·尘影 开发记录](kai-fa-ji-lu-she-ding/da-gang-1/1-1.md)
