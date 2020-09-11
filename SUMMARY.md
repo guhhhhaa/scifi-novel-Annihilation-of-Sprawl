@@ -53,7 +53,6 @@
   * [第十章](man-sheng-yan-mie-yan-ling/di-shi-zhang.md)
   * [第十一章](man-sheng-yan-mie-yan-ling/di-shi-yi-zhang.md)
   * [第十二章](man-sheng-yan-mie-yan-ling/di-shi-er-zhang.md)
-* [置换者的远航](zhi-huan-zhe-de-yuan-hang.md)
 * [置换](zhi-huan/README.md)
   * [第1卷 出发](zhi-huan/di-1-juan-chu-fa/README.md)
     * [第1章 意识转移](zhi-huan/di-1-juan-chu-fa/di-1-zhang-yi-shi-zhuan-yi.md)
