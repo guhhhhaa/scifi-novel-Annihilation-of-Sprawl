@@ -38,7 +38,7 @@
   * [补充三，中世纪审判，阿斯蒙蒂斯](man-sheng-yan-mie-chen-ying/untitled-6.md)
   * [首席科学家的过去（未完成）](man-sheng-yan-mie-chen-ying/shou-xi-ke-xue-jia-de-guo-qu-wei-wan-cheng.md)
   * [补充五，量子加密网络](man-sheng-yan-mie-chen-ying/bu-chong-wu-liang-zi-jia-mi-wang-luo.md)
-  * [灵隐寺的虚空藏菩萨](man-sheng-yan-mie-chen-ying/ling-yin-si-de-xu-kong-cang-pu-sa.md)
+  * [灵隐寺的无面佛像](man-sheng-yan-mie-chen-ying/ling-yin-si-de-xu-kong-cang-pu-sa.md)
   * [死灵先圣，无面佛像与预言之球](man-sheng-yan-mie-chen-ying/si-ling-xian-sheng-wu-mian-fo-xiang-yu-yu-yan-zhi-qiu.md)
   * [山寨边界器，与灵隐的冲突](man-sheng-yan-mie-chen-ying/shan-zhai-bian-jie-qi.md)
   * [玄冥界的专家](man-sheng-yan-mie-chen-ying/xuan-ming-jie-de-zhuan-jia.md)
