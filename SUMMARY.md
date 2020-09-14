@@ -2,6 +2,7 @@
 
 * [蔓生湮灭](README.md)
 * [《蔓生湮灭·尘影》——灵隐界](man-sheng-yan-mie-chen-ying/README.md)
+  * [补充四，创世神，管理组，山寨量子网络](man-sheng-yan-mie-chen-ying/bu-chong-si-chuang-shi-shen-guan-li-zu-shan-zhai-liang-zi-wang-luo.md)
   * [颠簸的大巴](man-sheng-yan-mie-chen-ying/di-yi-zhang-dian-bo-de-da-ba.md)
   * [湿滑的入学](man-sheng-yan-mie-chen-ying/untitled.md)
   * [古怪的交易](man-sheng-yan-mie-chen-ying/untitled-1.md)
@@ -41,7 +42,8 @@
   * [补充一 寻找谷妄蓝](man-sheng-yan-mie-chen-ying/bu-chong-yi-xun-zhao-gu-wang-lan.md)
   * [补充二 超构造体，原生后人类，意识熔炼，红檀木盒子](man-sheng-yan-mie-chen-ying/bu-chong-er-chao-gou-zao-ti-yuan-sheng-hou-ren-lei-yi-shi-rong-lian-hong-tan-mu-he-zi.md)
   * [补充三，中世纪审判，阿斯蒙蒂斯](man-sheng-yan-mie-chen-ying/untitled-6.md)
-  * [补充四，创世神，管理组，山寨量子网络](man-sheng-yan-mie-chen-ying/bu-chong-si-chuang-shi-shen-guan-li-zu-shan-zhai-liang-zi-wang-luo.md)
+  * [补充四，创世神，管理组，山寨量子网络](man-sheng-yan-mie-chen-ying/bu-chong-si-chuang-shi-shen-guan-li-zu-shan-zhai-liang-zi-wang-luo-1.md)
+  * [补充五，量子加密网络](man-sheng-yan-mie-chen-ying/bu-chong-wu-liang-zi-jia-mi-wang-luo.md)
 * [《蔓生湮灭·边界》——往生界](zheng-wen-1/README.md)
   * [Untitled](zheng-wen-1/untitled.md)
   * [第四章](zheng-wen-1/di-si-zhang.md)
