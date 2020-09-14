@@ -28,6 +28,7 @@
   * [合成尘坞石与合成GIC](man-sheng-yan-mie-chen-ying/he-cheng-chen-wu-shi-yu-he-cheng-gic.md)
   * [位置片段（待删除）](man-sheng-yan-mie-chen-ying/untitled-4.md)
   * [虚拟历史（一）枣红色丝绒布（未完成）](man-sheng-yan-mie-chen-ying/xu-ni-li-shi-yi-zao-hong-se-si-rong-bu-wei-wan-cheng.md)
+  * [虚拟历史（二）汉白玉按钮（未完成）](man-sheng-yan-mie-chen-ying/xu-ni-li-shi-er-han-bai-yu-an-niu-wei-wan-cheng.md)
 * [《蔓生湮灭·边界》——往生界](zheng-wen-1/README.md)
   * [Untitled](zheng-wen-1/untitled.md)
   * [第四章](zheng-wen-1/di-si-zhang.md)
