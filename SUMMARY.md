@@ -31,7 +31,7 @@
   * [虚拟历史（一）枣红色丝绒布（未完成）](man-sheng-yan-mie-chen-ying/xu-ni-li-shi-yi-zao-hong-se-si-rong-bu-wei-wan-cheng.md)
   * [虚拟历史（二）汉白玉按钮（未完成）](man-sheng-yan-mie-chen-ying/xu-ni-li-shi-er-han-bai-yu-an-niu-wei-wan-cheng.md)
   * [虚拟历史（三）红檀木盒子（未完成）](man-sheng-yan-mie-chen-ying/xu-ni-li-shi-san-hong-tan-mu-he-zi-wei-wan-cheng.md)
-  * [补充二 超构造体，原生后人类，意识熔炼，红檀木盒子](man-sheng-yan-mie-chen-ying/bu-chong-er-chao-gou-zao-ti-yuan-sheng-hou-ren-lei-yi-shi-rong-lian-hong-tan-mu-he-zi.md)
+  * [补充二 超构造体，原生后人类，意识熔炼，](man-sheng-yan-mie-chen-ying/bu-chong-er-chao-gou-zao-ti-yuan-sheng-hou-ren-lei-yi-shi-rong-lian-hong-tan-mu-he-zi.md)
   * [补充一 寻找谷妄蓝](man-sheng-yan-mie-chen-ying/bu-chong-yi-xun-zhao-gu-wang-lan.md)
   * [污染区白色人偶](man-sheng-yan-mie-chen-ying/wu-ran-qu-bai-se-ren-ou.md)
   * [阳光与黑暗（未完成）](man-sheng-yan-mie-chen-ying/yang-guang-yu-hei-an-wei-wan-cheng.md)
