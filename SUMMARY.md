@@ -2,7 +2,6 @@
 
 * [蔓生湮灭](README.md)
 * [《蔓生湮灭·尘影》——灵隐界](man-sheng-yan-mie-chen-ying/README.md)
-  * [补充四，创世神，管理组，山寨量子网络](man-sheng-yan-mie-chen-ying/bu-chong-si-chuang-shi-shen-guan-li-zu-shan-zhai-liang-zi-wang-luo.md)
   * [颠簸的大巴](man-sheng-yan-mie-chen-ying/di-yi-zhang-dian-bo-de-da-ba.md)
   * [湿滑的入学](man-sheng-yan-mie-chen-ying/untitled.md)
   * [古怪的交易](man-sheng-yan-mie-chen-ying/untitled-1.md)
