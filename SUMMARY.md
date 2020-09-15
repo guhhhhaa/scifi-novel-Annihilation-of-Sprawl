@@ -30,7 +30,6 @@
   * [未知片段（待删除）](man-sheng-yan-mie-chen-ying/untitled-4.md)
   * [虚拟历史（一）枣红色丝绒布与国家机器（未完成）](man-sheng-yan-mie-chen-ying/xu-ni-li-shi-yi-zao-hong-se-si-rong-bu-wei-wan-cheng.md)
   * [虚拟历史（二）汉白玉按钮与预言之球（未完成）](man-sheng-yan-mie-chen-ying/xu-ni-li-shi-er-han-bai-yu-an-niu-wei-wan-cheng.md)
-  * [死灵先圣](man-sheng-yan-mie-chen-ying/si-ling-xian-sheng-wu-mian-fo-xiang-yu-yu-yan-zhi-qiu.md)
   * [虚拟历史（三）红檀木盒子与纠缠量子（未完成）](man-sheng-yan-mie-chen-ying/xu-ni-li-shi-san-hong-tan-mu-he-zi-wei-wan-cheng.md)
   * [补充二 超构造体，原生后人类，意识熔炼，](man-sheng-yan-mie-chen-ying/bu-chong-er-chao-gou-zao-ti-yuan-sheng-hou-ren-lei-yi-shi-rong-lian-hong-tan-mu-he-zi.md)
   * [补充一 寻找谷妄蓝](man-sheng-yan-mie-chen-ying/bu-chong-yi-xun-zhao-gu-wang-lan.md)
