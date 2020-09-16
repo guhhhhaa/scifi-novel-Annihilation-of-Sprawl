@@ -18,7 +18,7 @@
 
 ## 地图
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20200916-shang-wu-9.28.20.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20200916-xia-wu-7.15.25.png)
 
 ![](../.gitbook/assets/a4-1.png)
 
