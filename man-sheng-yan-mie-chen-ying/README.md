@@ -28,7 +28,7 @@
 
 ## 阵营设定
 
-![&#x9635;&#x8425;&#x8BBE;&#x5B9A;](../.gitbook/assets/a4-4%20%281%29.png)
+![](../.gitbook/assets/a4-4.png)
 
 ## 人物关系
 
