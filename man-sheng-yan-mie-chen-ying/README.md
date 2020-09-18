@@ -18,7 +18,7 @@
 
 ## 地图
 
-![&#x603B;&#x5730;&#x56FE;](../.gitbook/assets/ping-mu-kuai-zhao-20200916-xia-wu-7.15.25.png)
+![](../.gitbook/assets/a4-3%20%281%29.png)
 
 ![&#x7075;&#x9690;&#x754C;&#x5730;&#x56FE;](../.gitbook/assets/a4-1.png)
 
@@ -26,7 +26,15 @@
 
 ![&#x7384;&#x51A5;&#x754C;&#x5730;&#x56FE;](../.gitbook/assets/a4-3.png)
 
+## 阵营设定
+
+![&#x9635;&#x8425;&#x8BBE;&#x5B9A;](../.gitbook/assets/a4-4%20%281%29.png)
+
 ## 人物关系
 
 ![&#x4EBA;&#x7269;&#x5173;&#x7CFB;&#x56FE;](../.gitbook/assets/a4-4.png)
+
+## 种族设定
+
+![&#x79CD;&#x65CF;&#x8BBE;&#x5B9A;](../.gitbook/assets/a4-6.png)
 
