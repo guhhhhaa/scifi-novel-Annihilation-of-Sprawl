@@ -21,7 +21,7 @@
   * [人机双生（未完成）](man-sheng-yan-mie-chen-ying/ren-ji-shuang-sheng.md)
   * [地铁管线](man-sheng-yan-mie-chen-ying/di-tie-fan-sha.md)
   * [博物馆后台](man-sheng-yan-mie-chen-ying/bo-wu-guan-hou-tai.md)
-  * [🌟灰雾中的怪物](man-sheng-yan-mie-chen-ying/hui-wu-zhong-de-guai-wu.md)
+  * [灰雾中的怪物](man-sheng-yan-mie-chen-ying/hui-wu-zhong-de-guai-wu.md)
   * [黑卡与密室](man-sheng-yan-mie-chen-ying/hei-ka-yu-mi-shi.md)
   * [\*灵隐寺的历史](man-sheng-yan-mie-chen-ying/ling-yin-si-de-xu-kong-cang-pu-sa.md)
   * [严厉的警告](man-sheng-yan-mie-chen-ying/yin-hun-bu-san.md)
