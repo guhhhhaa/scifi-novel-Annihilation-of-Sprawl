@@ -32,9 +32,9 @@
 
 ## 人物关系
 
-![&#x4EBA;&#x7269;&#x5173;&#x7CFB;&#x56FE;](../.gitbook/assets/a4-4.png)
+![](../.gitbook/assets/a4-5.png)
 
 ## 种族设定
 
-![&#x79CD;&#x65CF;&#x8BBE;&#x5B9A;](../.gitbook/assets/a4-6.png)
+![](../.gitbook/assets/a4-6.png)
 
