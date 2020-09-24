@@ -32,7 +32,7 @@
 
 ## 人物关系
 
-![](../.gitbook/assets/a4-5%20%281%29.png)
+![](../.gitbook/assets/a4-5%20%282%29.png)
 
 ## 种族设定
 
