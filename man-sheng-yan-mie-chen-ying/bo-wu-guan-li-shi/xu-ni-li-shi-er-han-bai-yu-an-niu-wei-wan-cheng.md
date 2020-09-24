@@ -46,15 +46,14 @@
 
 主要是抗干扰能力很强，如果纳米机械“灰雾”受到强电磁干扰的话，摄魂图和脑机接口都无法使用，或者频繁掉线，容易造成人类死亡。此时就可以使用无面佛像。
 
-而在纳米战争爆发的地区，强电磁干扰是经常发生的。
+而在纳米战争爆发的地区，强电磁干扰是经常发生的。  
 
-  
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'PingFang SC'}  
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}  
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}  
-span.s1 {font: 12.0px Helvetica}  
-span.s2 {font: 12.0px 'PingFang SC'}  
 
+——————————
+
+
+
+——————————
 
 尘坞市依然是那么平静，平静得像是这里永远不可能发生些什么，尤其是这座连在这里都算偏僻的办公室。
 
