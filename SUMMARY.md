@@ -34,6 +34,7 @@
     * [虚拟历史（一）枣红色丝绒布与国家机器（未完成）](man-sheng-yan-mie-chen-ying/bo-wu-guan-li-shi/xu-ni-li-shi-yi-zao-hong-se-si-rong-bu-wei-wan-cheng.md)
     * [虚拟历史（二）汉白玉按钮与预言之球（未完成）](man-sheng-yan-mie-chen-ying/bo-wu-guan-li-shi/xu-ni-li-shi-er-han-bai-yu-an-niu-wei-wan-cheng.md)
     * [虚拟历史（三）红檀木盒子与纠缠量子（未完成）](man-sheng-yan-mie-chen-ying/bo-wu-guan-li-shi/xu-ni-li-shi-san-hong-tan-mu-he-zi-wei-wan-cheng.md)
+    * [深渊虫洞，超导约束圈，仿星器](man-sheng-yan-mie-chen-ying/bo-wu-guan-li-shi/shen-yuan-chong-dong-chao-dao-yue-shu-quan-fang-xing-qi.md)
   * [补充一 寻找谷妄蓝](man-sheng-yan-mie-chen-ying/bu-chong-yi-xun-zhao-gu-wang-lan.md)
   * [🌟谷妄蓝被折磨合并](man-sheng-yan-mie-chen-ying/gu-wang-lan-bei-zhe-mo-he-bing/README.md)
     * [阳光与黑暗（未完成）](man-sheng-yan-mie-chen-ying/gu-wang-lan-bei-zhe-mo-he-bing/yang-guang-yu-hei-an-wei-wan-cheng.md)
