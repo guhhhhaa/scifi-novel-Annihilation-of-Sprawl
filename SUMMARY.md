@@ -41,6 +41,7 @@
   * [🌟白色人偶 & 山寨边界器 & 玄冥界的专家](man-sheng-yan-mie-chen-ying/xu-yao-luo-qing-chu-de-qing-jie.md)
   * [多百城的定时炸弹，奇异](man-sheng-yan-mie-chen-ying/duo-bai-cheng-de-ding-shi-zha-tan-qi-yi.md)
   * [未知片段（待删除）](man-sheng-yan-mie-chen-ying/untitled-4.md)
+  * [外环空间站的起源](man-sheng-yan-mie-chen-ying/wai-huan-kong-jian-zhan-de-qi-yuan.md)
   * [群像](man-sheng-yan-mie-chen-ying/qun-xiang.md)
 * [《蔓生湮灭·边界》——往生界](zheng-wen-1/README.md)
   * [Untitled](zheng-wen-1/untitled.md)
