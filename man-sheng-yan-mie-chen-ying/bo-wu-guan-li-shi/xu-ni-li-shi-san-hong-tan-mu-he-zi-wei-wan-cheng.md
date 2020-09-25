@@ -40,24 +40,6 @@
 
 
 
-  
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'PingFang SC'}  
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}  
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px 'Songti SC'; color: \#000000; -webkit-text-stroke: \#000000}  
-p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'PingFang SC'; -webkit-text-stroke: \#000000; min-height: 17.0px}  
-p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'PingFang SC'; -webkit-text-stroke: \#000000}  
-p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: \#000000; min-height: 14.0px}  
-p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Songti SC'; color: \#000000; -webkit-text-stroke: \#000000}  
-p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: \#000000}  
-span.s1 {font: 12.0px Helvetica}  
-span.s2 {font-kerning: none}  
-span.s3 {font: 12.0px Times; font-kerning: none}  
-span.s4 {font: 12.0px Helvetica; color: \#000000}  
-span.s5 {font: 12.0px 'PingFang SC'; color: \#000000}  
-span.s6 {font: 12.0px 'Songti SC'; font-kerning: none; color: \#000000}  
-span.s7 {font: 12.0px Times; font-kerning: none; color: \#000000}  
-
-
 尘坞市，管理组办公室，光远的书房之内。
 
     光远主任现在正坐在书桌前。这个灵隐界最有权势的老人现在却像个孩子一样把玩着桌上的一个红檀木盒子。
@@ -66,7 +48,7 @@ span.s7 {font: 12.0px Times; font-kerning: none; color: \#000000}
 
 现在站在他身后的不是杨子轩，而是一个面容平静平和得近乎木讷的干涉者，除了那身黑暗长袍能说明他干涉者的身份之外，他身上丝毫没有其他干涉者的那种夺目的神采。书桌前不远站立着的是刚刚来的架耦和黑频。
 
-    “架耦大人，你看得出这是什么么？”光远撮弄着指间的红檀木盒子，问。这些工具都被以一种诡异而阴暗的方式连接在一起，试图要发现一些什么规律，红檀木盒子表面上覆盖着一层棕褐色的包浆。看起来似乎有数十年的历史。 
+    “架耦大人，你看得出这是什么么？”光远撮弄着指间的红檀木盒子，问。红檀木盒子**里的**这些工具都被以一种诡异而阴暗的方式连接在一起，试图要发现一些什么规律，红檀木盒子表面上覆盖着一层棕褐色的包浆。看起来似乎有数十年的历史。 
 
 他的脸上虽然有笑容，书房的窗户也开着，外面的阳光直射进来，房中却有些阴冷的味道。
 
