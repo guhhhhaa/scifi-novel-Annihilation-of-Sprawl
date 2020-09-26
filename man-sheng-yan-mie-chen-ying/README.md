@@ -18,13 +18,15 @@
 
 ## 地图
 
-![&#x603B;&#x5730;&#x56FE;](../.gitbook/assets/a4-3%20%281%29.png)
+![](../.gitbook/assets/a4-3%20%282%29.png)
 
-![&#x7075;&#x9690;&#x754C;&#x5730;&#x56FE;](../.gitbook/assets/a4-1.png)
+![](../.gitbook/assets/a4-1%20%281%29.png)
 
 ![&#x5F80;&#x751F;&#x754C;&#x5730;&#x56FE;](../.gitbook/assets/a4-2.png)
 
 ![&#x7384;&#x51A5;&#x754C;&#x5730;&#x56FE;](../.gitbook/assets/a4-3.png)
+
+![](../.gitbook/assets/a4-7.png)
 
 ## 阵营设定
 
