@@ -27,6 +27,7 @@
     * [采矿管之战](man-sheng-yan-mie-chen-ying/hui-wu-zhong-de-guai-wu/cai-kuang-guan-zhi-zhan.md)
   * [黑卡与密室](man-sheng-yan-mie-chen-ying/hei-ka-yu-mi-shi.md)
   * [\*灵隐寺的历史](man-sheng-yan-mie-chen-ying/ling-yin-si-de-xu-kong-cang-pu-sa.md)
+  * [Untitled](man-sheng-yan-mie-chen-ying/untitled-5.md)
   * [🌟下水道聚居区（未完成）](man-sheng-yan-mie-chen-ying/xia-shui-dao-jv-jv-qv.md)
   * [🌟补充四，死灵先圣，量子网络识别码](man-sheng-yan-mie-chen-ying/bu-chong-si-chuang-shi-shen-guan-li-zu-shan-zhai-liang-zi-wang-luo-1.md)
   * [🌟首席科学家的过去（未完成）](man-sheng-yan-mie-chen-ying/shou-xi-ke-xue-jia-de-guo-qu-wei-wan-cheng.md)
