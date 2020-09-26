@@ -26,7 +26,7 @@
 
 ![&#x7384;&#x51A5;&#x754C;&#x5730;&#x56FE;](../.gitbook/assets/a4-3.png)
 
-![](../.gitbook/assets/a4-7.png)
+![&#x7A7A;&#x95F4;&#x5730;&#x56FE;](../.gitbook/assets/a4-7.png)
 
 ## 阵营设定
 
