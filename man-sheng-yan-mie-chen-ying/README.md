@@ -38,8 +38,6 @@
 
 ## 科技树
 
-![](../.gitbook/assets/untitled-diagram.png)
-
 ## 种族设定
 
 ![](../.gitbook/assets/a4-6.png)
