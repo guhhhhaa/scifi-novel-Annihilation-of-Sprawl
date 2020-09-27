@@ -4,7 +4,7 @@ description: Annihilation of Sprawl
 
 # 蔓生湮灭
 
-![Annihilation of Sprawl](.gitbook/assets/spaces_-m35v6svll3z-ggonuma_avatar-1585389178125.png)
+![](.gitbook/assets/spaces_-m35v6svll3z-ggonuma_avatar-1585389178125.png)
 
 ## 宣传网站
 
