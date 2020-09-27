@@ -2,6 +2,8 @@
 
 {% embed url="https://www.processon.com/view/link/5f6fd8171e08531ce9d97c70" %}
 
+![](../.gitbook/assets/untitled-diagram.png)
+
 往生界在进入生电社会以后，合成人技术高度发达，
 
 由最开始合成人只是用于生产工具，到后来逐渐进入人类的生活的各个方面。人类吃饭，学习，交通，住房，医疗全部依靠合成人。
