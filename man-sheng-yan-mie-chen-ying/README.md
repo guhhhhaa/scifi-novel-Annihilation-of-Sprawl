@@ -36,6 +36,10 @@
 
 ![](../.gitbook/assets/a4-5.png)
 
+## 势力图
+
+![](../.gitbook/assets/a4-8.png)
+
 ## 科技树
 
 ![](../.gitbook/assets/sheng-dian-she-li-shi-.png)
