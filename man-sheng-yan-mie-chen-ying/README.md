@@ -40,6 +40,8 @@
 
 ![](../.gitbook/assets/sheng-dian-she-li-shi-.png)
 
+{% embed url="https://www.processon.com/view/link/5f6fd8171e08531ce9d97c70" %}
+
 ## 种族设定
 
 ![](../.gitbook/assets/a4-6.png)
