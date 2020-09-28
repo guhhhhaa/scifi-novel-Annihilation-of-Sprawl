@@ -36,6 +36,10 @@
 
 ![](../.gitbook/assets/a4-5.png)
 
+## 力量体系
+
+![](../.gitbook/assets/a4-9.png)
+
 ## 势力图
 
 ![](../.gitbook/assets/a4-8.png)
