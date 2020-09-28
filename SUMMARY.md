@@ -31,6 +31,7 @@
   * [🌟补充四，死灵先圣，量子网络识别码](man-sheng-yan-mie-chen-ying/bu-chong-si-chuang-shi-shen-guan-li-zu-shan-zhai-liang-zi-wang-luo-1.md)
   * [生电社历史](man-sheng-yan-mie-chen-ying/untitled-5.md)
   * [🌟首席科学家的过去（未完成）](man-sheng-yan-mie-chen-ying/shou-xi-ke-xue-jia-de-guo-qu-wei-wan-cheng.md)
+  * [死灵先圣](man-sheng-yan-mie-chen-ying/si-ling-xian-sheng.md)
   * [\*博物馆历史](man-sheng-yan-mie-chen-ying/bo-wu-guan-li-shi/README.md)
     * [虚拟历史（一）枣红色丝绒布与国家机器（未完成）](man-sheng-yan-mie-chen-ying/bo-wu-guan-li-shi/xu-ni-li-shi-yi-zao-hong-se-si-rong-bu-wei-wan-cheng.md)
     * [虚拟历史（二）汉白玉按钮与预言之球（未完成）](man-sheng-yan-mie-chen-ying/bo-wu-guan-li-shi/xu-ni-li-shi-er-han-bai-yu-an-niu-wei-wan-cheng.md)
