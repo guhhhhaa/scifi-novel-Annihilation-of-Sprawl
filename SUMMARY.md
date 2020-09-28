@@ -46,7 +46,7 @@
   * [未知片段（待删除）](man-sheng-yan-mie-chen-ying/untitled-4.md)
   * [外环空间站的起源](man-sheng-yan-mie-chen-ying/wai-huan-kong-jian-zhan-de-qi-yuan.md)
   * [与载体构成体的会面](man-sheng-yan-mie-chen-ying/zai-ti-gou-cheng-ti.md)
-  * [大崩溃](man-sheng-yan-mie-chen-ying/untitled-7.md)
+  * [结局 - 大崩溃](man-sheng-yan-mie-chen-ying/untitled-7.md)
   * [群像](man-sheng-yan-mie-chen-ying/qun-xiang.md)
 * [《蔓生湮灭·边界》——往生界](zheng-wen-1/README.md)
   * [Untitled](zheng-wen-1/untitled.md)
