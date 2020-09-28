@@ -43,6 +43,7 @@
   * [🌟白色人偶 & 山寨边界器 & 玄冥界的专家](man-sheng-yan-mie-chen-ying/xu-yao-luo-qing-chu-de-qing-jie.md)
   * [边界器信息](man-sheng-yan-mie-chen-ying/untitled-6.md)
   * [多百城的定时炸弹，奇异](man-sheng-yan-mie-chen-ying/duo-bai-cheng-de-ding-shi-zha-tan-qi-yi.md)
+  * [置换发生器](man-sheng-yan-mie-chen-ying/untitled-8.md)
   * [未知片段（待删除）](man-sheng-yan-mie-chen-ying/untitled-4.md)
   * [外环空间站的起源](man-sheng-yan-mie-chen-ying/wai-huan-kong-jian-zhan-de-qi-yuan.md)
   * [与载体构成体的会面](man-sheng-yan-mie-chen-ying/zai-ti-gou-cheng-ti.md)
