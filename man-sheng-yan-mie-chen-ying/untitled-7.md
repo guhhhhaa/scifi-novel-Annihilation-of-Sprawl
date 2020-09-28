@@ -1,10 +1,5 @@
 # Untitled
 
-  
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 32.0px; font: 16.0px 'PingFang SC'; color: \#262626; -webkit-text-stroke: \#262626; background-color: \#f6f7f7}  
-span.s1 {font-kerning: none}  
-
-
 离开“生电实验室”的坎并未回到现实，而是处于一种混沌的状态当中，
 
 恍惚间他来到了一间黑色屋顶的大屋，起居室角落的笔记本电脑放着8-Bit电子音乐，
