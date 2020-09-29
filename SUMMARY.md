@@ -1,7 +1,6 @@
 # Table of contents
 
 * [蔓生湮灭](README.md)
-* [借鉴情节——发条女孩](untitled.md)
 * [《蔓生湮灭·尘影》——灵隐界](man-sheng-yan-mie-chen-ying/README.md)
   * [颠簸的大巴](man-sheng-yan-mie-chen-ying/di-yi-zhang-dian-bo-de-da-ba.md)
   * [湿滑的入学](man-sheng-yan-mie-chen-ying/untitled.md)
@@ -51,6 +50,7 @@
   * [与载体构成体的会面](man-sheng-yan-mie-chen-ying/zai-ti-gou-cheng-ti.md)
   * [未知片段（待删除）](man-sheng-yan-mie-chen-ying/untitled-4.md)
   * [结局 - 大崩溃](man-sheng-yan-mie-chen-ying/untitled-7.md)
+  * [借鉴情节——发条女孩](man-sheng-yan-mie-chen-ying/untitled-9.md)
   * [群像](man-sheng-yan-mie-chen-ying/qun-xiang.md)
 * [《蔓生湮灭·边界》——往生界](zheng-wen-1/README.md)
   * [Untitled](zheng-wen-1/untitled.md)
