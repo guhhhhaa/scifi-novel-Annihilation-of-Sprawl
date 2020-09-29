@@ -294,117 +294,19 @@
 
 ## 坎和谷妄蓝性交
 
-  
-&lt;!--  
- /\* Font Definitions \*/  
- @font-face  
-	{font-family:宋体;  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-alt:SimSun;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:3 680460288 22 0 262145 0;}  
-@font-face  
-	{font-family:"Cambria Math";  
-	panose-1:2 4 5 3 5 4 6 3 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-536870145 1107305727 0 0 415 0;}  
-@font-face  
-	{font-family:DengXian;  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-alt:等线;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-1610612033 953122042 22 0 262159 0;}  
-@font-face  
-	{font-family:"\@宋体";  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:3 680460288 22 0 262145 0;}  
-@font-face  
-	{font-family:"\@等线";  
-	panose-1:2 1 6 0 3 1 1 1 1 1;  
-	mso-font-alt:"\@DengXian";  
-	mso-font-charset:134;  
-	mso-generic-font-family:auto;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-1610612033 953122042 22 0 262159 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin:0cm;  
-	text-align:justify;  
-	text-justify:inter-ideograph;  
-	mso-pagination:none;  
-	font-size:10.5pt;  
-	mso-bidi-font-size:12.0pt;  
-	font-family:DengXian;  
-	mso-ascii-font-family:DengXian;  
-	mso-ascii-theme-font:minor-latin;  
-	mso-fareast-font-family:DengXian;  
-	mso-fareast-theme-font:minor-fareast;  
-	mso-hansi-font-family:DengXian;  
-	mso-hansi-theme-font:minor-latin;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;  
-	mso-font-kerning:1.0pt;}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	font-family:DengXian;  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-bidi-theme-font:minor-bidi;}  
- /\* Page Definitions \*/  
- @page  
-	{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}  
-@page WordSection1  
-	{size:595.3pt 841.9pt;  
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;  
-	mso-header-margin:42.55pt;  
-	mso-footer-margin:49.6pt;  
-	mso-paper-source:0;  
-	layout-grid:15.6pt;}  
-div.WordSection1  
-	{page:WordSection1;}  
---&gt;  
-
-
 太阳在地平线的边缘窥视，斜照着多百城。生电裂隙对面鹊桥计划的大楼的骨架、灵隐寺的置换发生器都被染成了红色，像熔化的金属。太阳仿佛点燃了虚拟历史博物馆管理组办公室高耸的尖顶，光远主任和他的管理员们就隐居在那里。城市之柱上那些精美的装饰仿佛映出火光，基因骇客们在这里昼夜不休地为城市的防化大堤和排污水渠编写抗攻击代码。太阳像个燃烧的火球，在天空中缓缓移动，将暖热的大洋映得如同一片血海，只有偶尔泛起的波涛会反射出一点蓝色的光。
-
-‌
 
 太阳照到坎位于六楼的阳台，阳光扑进他的公寓。阳台的外沿上，茉莉枝在热风中微微颤抖。坎抬眼望去，蓝色的眼睛被阳光晃得眯了起来。汗珠从他苍白的皮肤里渗出，在阳光下闪闪发光。在阳台的栏杆之外，整个多百城犹如漂浮在熔渣之上，被照到的尖顶和玻璃不时闪现出金光。
 
-‌
-
 酷热中，他赤身裸体地坐在地板上，周围翻开的书散乱地放在柚木地板上。发霉脱页的古书、破烂的纸片、被撕去一半的日记，这些都是过去那个时代的纪念品。在那个时候，数以万计的蔓生物将它们的尘埃云和聚合体散发到空气中。他整晚都在查找那些纳米机械变种的资料，但却没记住多少内容。他的脑海中总是出现一具裸露的肉体——女孩的方裙沿着腿部向上滑去，闪亮的紫色织物上绣着孔雀，光滑的大腿分开，露出中间湿润的部位。
-
-‌
 
 远方是造生实验室的高楼，太阳照亮了它们的另一面。在潮湿的黄色雾气中，它们看起来像是三根指向天空的手指。白天的时候，它们看上去就是普通的贫民窟，根本看不出里面那些令人激动上瘾的东西存在的迹象。
 
-‌
-
 一个下载人女孩。
-
-‌
 
 他的手指放在她的皮肤上。她说：“你可以摸我。”但那双黑色的眼睛却冷冰冰的。
 
-‌
-
 坎深吸一口气，赶走萦绕心头的记忆。他每天与之搏斗的蔓生物富于侵略性，而她正好相反。她是一株温室中的花朵，突然跌落尘埃——对她那精巧的设计而言，这里的环境太过粗暴了。考虑到这里的气候和民众，她很可能活不了多久。也许正是这种脆弱打动了他；尽管她一无所有，却装出一副坚强的样子。她在瓜神的要求下拉起裙子，却仍然在为某种类似自尊的情感而斗争。
-
-‌
 
 所以你才告诉了她那些采矿管的事情？因为你怜悯她？不是因为她的皮肤摸起来像芒果一样光滑？不是因为你在抚摸她的时候几乎不能呼吸？
 
@@ -415,13 +317,17 @@ div.WordSection1
 
 
 
-## 出蜗壬鼠监工
+## 出蜗壬鼠和瓜神监工
 
-在狭窄曲折的小巷中又穿行了十分钟，他来到了海墙边上。这座宏伟的堡垒是拉玛十二世陛下为保护他的城市而建造的，各种简陋的小屋像藤壶一样紧贴其上。福生看到笑面詹坐在一辆小食车旁，大口吃着一碗热气腾腾的尤德克斯大米粥，黏稠的粥里面还有些可疑的碎肉。
 
-笑面詹曾是一名种植园的监工，监督手下的一百五十个工人割取橡胶树的乳液。而现在，善于组织的才能帮他找到了一个新工作：监督苦力们在码头和起降场搬运货物。泰国人太懒、太笨或是太慢让雇主不满时，他就能派上用场。他有时会贿赂那些有权力的人，让他手下的黄卡难民有活做，以便得到食物。他有时也做其他工作，例如将从河流上游送来的鸦片和安非他明送到粪肥巨头的大楼中，或是不顾环境部的禁令，从安格里特岛上将农基公司生产的加强版大豆走私到城里。
 
-他少了一只耳朵和四颗牙，但脸上依然挂着笑容。他坐在那里，像个傻瓜似的咧嘴笑着，露出牙齿中间的大缺口，目光不停地在步行的人流中逡巡。福生在他身边坐下，一碗同样冒着热气的粥放在他面前。他们吃着粥，喝着咖啡——味道和他们在南边时喝的同样好。两人不断观察着周围的行人、给他们送上食品的女人、在巷子中其他桌旁坐着的男人，以及骑着自行车飞快掠过的人们。毕竟他们两个都是黄卡人。这种习惯就像柴郡猫搜寻天空中的鸟儿一样，是改不掉的了。
+在狭窄曲折的小巷中又穿行了十分钟，瓜神来到了海墙边上。这座宏伟的堡垒是光远主任为保护他的城市而建造的，各种简陋的小屋像藤壶一样紧贴其上。
+
+出蜗壬鼠看到瓜神坐在一辆小食车旁，大口吃着一碗热气腾腾的尤德克斯大米粥，黏稠的粥里面还有些可疑的碎肉。
+
+瓜神曾是一名造生工厂的监工，监督手下的一百五十个工人割取改造人的器官。而现在，善于组织的才能帮他找到了一个新工作：监督苦力们在生电裂隙和海关搬运货物。尘坞人太懒、太笨或是太慢让雇主不满时，他就能派上用场。他有时会贿赂那些有权力的白衬衫管理员，让他手下的尘坞难民有活做，以便得到食物。他有时也做其他工作，例如将从河流上游送来的克伊罗晶体送到生电堆的大楼中，或是不顾管理组的禁令，从安雅山脉上将安雅公司生产的加强版载体构成体走私到城里。
+
+他少了一只耳朵和四颗牙，但脸上依然挂着笑容。他坐在那里，像个傻瓜似的咧嘴笑着，露出牙齿中间的大缺口，目光不停地在步行的人流中逡巡。出蜗壬鼠在他身边坐下，一碗同样冒着热气的粥放在他面前。他们吃着粥，喝着可乐——味道和他们在南边时喝的同样好。两人不断观察着周围的行人、给他们送上食品的女人、在巷子中其他桌旁坐着的男人，以及骑着磁悬浮飞行器飞快掠过的人们。毕竟他们两个都曾经是尘坞人。这种习惯就像纳米机械搜寻天空中的聚合体一样，是改不掉的了。
 
 
 
@@ -431,7 +337,9 @@ div.WordSection1
 
 ## 造生实验室
 
-在这个国家的某处有一个隐藏的种子库。其中有数千颗、甚至数万颗得到妥善保护的种子，一个真正的生物多样性宝库。无穷无尽的DNA链条，每一段都有其潜在的用处。为了解决棘手的生存问题，泰国人正在从这个金矿中提取出答案。只要能够进入泰国的种子库，德梅因的实验室就可以发掘出足够数代人使用的基因密码，击退变种瘟疫的攻击，从而能够活得更久一些。  
+
+
+在多百城的某处有一个隐藏的基因库。其中有数千组、甚至数万组得到妥善保护的基因，一个真正的基因多样性宝库。无穷无尽的DNA链条，每一段都有其潜在的用处。为了解决棘手的生存问题，多百城的生电社正在从这个金矿中提取出答案。只要能够进入多百城的种子库，端散的造生实验室就可以发掘出足够数代人使用的基因密码，击退纳米机械和蔓生物的攻击，从而能够活得更久一些。  
   
   
   
