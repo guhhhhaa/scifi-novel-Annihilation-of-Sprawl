@@ -2,7 +2,7 @@
 
 {% embed url="https://www.processon.com/view/link/5f6fd8171e08531ce9d97c70" %}
 
-![](../.gitbook/assets/sheng-dian-she-li-shi-.png)
+![](../../.gitbook/assets/sheng-dian-she-li-shi-.png)
 
 往生界在进入生电社会以后，合成人技术高度发达，
 
