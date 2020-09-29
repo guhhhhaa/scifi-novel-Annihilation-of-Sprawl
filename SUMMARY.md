@@ -30,7 +30,7 @@
     * [与灵隐的冲突](man-sheng-yan-mie-chen-ying/chen-wu-shi-yu-duo-bai-cheng-jiao-jie/yu-ling-yin-de-chong-tu.md)
     * [严厉的警告](man-sheng-yan-mie-chen-ying/chen-wu-shi-yu-duo-bai-cheng-jiao-jie/yin-hun-bu-san.md)
     * [采矿管之战（坎&容灰希）](man-sheng-yan-mie-chen-ying/chen-wu-shi-yu-duo-bai-cheng-jiao-jie/cai-kuang-guan-zhi-zhan.md)
-  * [黑卡与密室](man-sheng-yan-mie-chen-ying/hei-ka-yu-mi-shi.md)
+    * [黑卡与密室](man-sheng-yan-mie-chen-ying/chen-wu-shi-yu-duo-bai-cheng-jiao-jie/hei-ka-yu-mi-shi.md)
   * [\*灵隐寺的历史](man-sheng-yan-mie-chen-ying/ling-yin-si-de-xu-kong-cang-pu-sa.md)
   * [🌟下水道聚居区（未完成）](man-sheng-yan-mie-chen-ying/xia-shui-dao-jv-jv-qv.md)
   * [🌟补充四，死灵先圣，量子网络识别码](man-sheng-yan-mie-chen-ying/bu-chong-si-chuang-shi-shen-guan-li-zu-shan-zhai-liang-zi-wang-luo-1.md)
