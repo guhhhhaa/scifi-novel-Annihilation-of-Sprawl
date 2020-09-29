@@ -45,7 +45,7 @@
     * [坎听出蜗壬鼠说安雅公司的历史](man-sheng-yan-mie-chen-ying/li-shi-er/bu-chong-si-chuang-shi-shen-guan-li-zu-shan-zhai-liang-zi-wang-luo-1.md)
   * [边界器信息](man-sheng-yan-mie-chen-ying/untitled-6.md)
   * [采矿管之战（坎&容灰希）](man-sheng-yan-mie-chen-ying/cai-kuang-guan-zhi-zhan.md)
-  * [🌟谷妄蓝被折磨合并](man-sheng-yan-mie-chen-ying/gu-wang-lan-bei-zhe-mo-he-bing/README.md)
+  * [谷妄蓝被折磨合并](man-sheng-yan-mie-chen-ying/gu-wang-lan-bei-zhe-mo-he-bing/README.md)
     * [阳光与黑暗（未完成）](man-sheng-yan-mie-chen-ying/gu-wang-lan-bei-zhe-mo-he-bing/yang-guang-yu-hei-an-wei-wan-cheng.md)
     * [补充一 寻找谷妄蓝](man-sheng-yan-mie-chen-ying/gu-wang-lan-bei-zhe-mo-he-bing/bu-chong-yi-xun-zhao-gu-wang-lan.md)
     * [补充三，中世纪审判，阿斯蒙蒂斯](man-sheng-yan-mie-chen-ying/gu-wang-lan-bei-zhe-mo-he-bing/untitled-6.md)
