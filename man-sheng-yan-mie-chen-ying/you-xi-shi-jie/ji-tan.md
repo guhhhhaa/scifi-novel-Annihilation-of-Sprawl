@@ -1,6 +1,6 @@
 # 祭坛
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-9.15.05.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-9.15.05.png)
 
 这段路的两侧昏暗漆黑，而中央则是一片蓝绿色的闪光，就像快要融化的冰晶。
 

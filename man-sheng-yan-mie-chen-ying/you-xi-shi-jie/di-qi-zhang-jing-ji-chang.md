@@ -1,6 +1,6 @@
 # 游戏竞技场
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.20.52.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.20.52.png)
 
 欢迎各位选手来到第029号竞技场。
 

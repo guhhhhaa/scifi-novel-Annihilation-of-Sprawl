@@ -1,6 +1,6 @@
 # 最强对手
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.14.34.png)
+![](../../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.14.34.png)
 
 当那个程序在空中激发出无数纷繁复杂的眼睛的时候，陈颖就知道一切都已经晚了。
 
