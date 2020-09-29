@@ -32,6 +32,8 @@
 
 ![](../.gitbook/assets/a4-10.png)
 
+![](../.gitbook/assets/a4-11.png)
+
 ## 阵营设定
 
 ![](../.gitbook/assets/a4-4.png)
