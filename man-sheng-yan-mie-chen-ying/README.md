@@ -28,6 +28,8 @@
 
 ![&#x7A7A;&#x95F4;&#x5730;&#x56FE;](../.gitbook/assets/a4-7.png)
 
+![](../.gitbook/assets/a4-12.png)
+
 ## 多百城地图
 
 ![](../.gitbook/assets/a4-10.png)
