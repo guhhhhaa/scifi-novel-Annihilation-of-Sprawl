@@ -36,6 +36,12 @@
 
 ![](../.gitbook/assets/a4-11.png)
 
+## 科技树
+
+![](../.gitbook/assets/sheng-dian-she-li-shi-.png)
+
+{% embed url="https://www.processon.com/view/link/5f6fd8171e08531ce9d97c70" %}
+
 ## 阵营设定
 
 ![](../.gitbook/assets/a4-4.png)
@@ -51,12 +57,6 @@
 ## 势力图
 
 ![](../.gitbook/assets/a4-8.png)
-
-## 科技树
-
-![](../.gitbook/assets/sheng-dian-she-li-shi-.png)
-
-{% embed url="https://www.processon.com/view/link/5f6fd8171e08531ce9d97c70" %}
 
 ## 种族设定
 
