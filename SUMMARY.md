@@ -58,7 +58,7 @@
   * [结局 - 大崩溃](man-sheng-yan-mie-chen-ying/untitled-7.md)
   * [群像](man-sheng-yan-mie-chen-ying/qun-xiang.md)
 * [借鉴情节，发条女孩](jie-jian-qing-jie-fa-tiao-nv-hai.md)
-* [借鉴情节——发条女孩](untitled-9.md)
+* [谷妄蓝](untitled-9.md)
 * [出蜗壬鼠](yi.md)
 * [坎](er.md)
 * [陈颖和死灵风眼](san.md)
