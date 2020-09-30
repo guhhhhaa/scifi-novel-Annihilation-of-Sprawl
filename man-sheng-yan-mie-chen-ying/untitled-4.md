@@ -1,12 +1,4 @@
-# 未知片段（待删除）
-
-  
-p.p1 {margin: 5.0px 0.0px 5.0px 0.0px; font: 12.0px 'PingFang SC'}  
-span.s1 {font-kerning: none}  
-span.s2 {font: 12.0px 'Times New Roman'; font-kerning: none}  
-span.s3 {font: 12.0px Helvetica; font-kerning: none}  
-span.s4 {font: 12.0px 'Songti SC'; font-kerning: none}  
-
+# 谷妄蓝总剧情
 
 谷妄蓝被抓获，关押到监狱里，对方建了一个泡泡。把谷妄蓝和她都罩了起来。
 
