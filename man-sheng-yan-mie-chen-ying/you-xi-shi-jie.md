@@ -114,7 +114,7 @@ C类游戏世界是造法则之力——游戏引擎或者编程语言，数据�
 
 ## 游戏竞技场
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.20.52.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.20.52.png)
 
 欢迎各位选手来到第029号竞技场。
 
@@ -198,7 +198,7 @@ C类游戏世界是造法则之力——游戏引擎或者编程语言，数据�
 
 ## 祭坛
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-9.15.05.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-9.15.05.png)
 
 这段路的两侧昏暗漆黑，而中央则是一片蓝绿色的闪光，就像快要融化的冰晶。
 
@@ -274,7 +274,7 @@ C类游戏世界是造法则之力——游戏引擎或者编程语言，数据�
 
 ## 最强对手
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.14.34.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.14.34.png)
 
 当那个程序在空中激发出无数纷繁复杂的眼睛的时候，陈颖就知道一切都已经晚了。
 
