@@ -2,7 +2,7 @@
 
 ## 颠簸的大巴
 
-![](../../.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 陈颖曾经记得杨子轩的样子，那年夏天，他在那条弯弯曲曲的颠簸山路上遇见了杨子轩。那个时候，他还是个懵懂无知的刚入学的高中生，一辆大客车满载着这些学生，大家挤在一起，东倒西歪地随着大客摇摆。
 
@@ -132,9 +132,9 @@
 
 ## 湿滑的入学
 
-![](../../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.34.19.png)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20200905-xia-wu-2.34.19.png)
 
-![](../../.gitbook/assets/26215af191fe70b80122284edc9bee48.jpeg)
+![](../.gitbook/assets/26215af191fe70b80122284edc9bee48.jpeg)
 
 出了站台，陈颖站上了磁悬浮人行轨道。
 
@@ -494,7 +494,7 @@
 
 谷妄蓝右眼中出现了一串游标状圆圈图案，
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 这个图案展开，弹出了一个古典风格的视窗，视窗里有一段令人眼熟的代码：
 
