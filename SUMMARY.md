@@ -4,8 +4,6 @@
 * [《蔓生湮灭·尘影》——灵隐界](man-sheng-yan-mie-chen-ying/README.md)
   * [死灵先圣](man-sheng-yan-mie-chen-ying/si-ling-xian-sheng.md)
   * [尘大附中附近](man-sheng-yan-mie-chen-ying/chen-da-fu-zhong-fu-jin/README.md)
-    * [湿滑的入学](man-sheng-yan-mie-chen-ying/chen-da-fu-zhong-fu-jin/shi-hua-de-ru-xue.md)
-    * [古怪的交易](man-sheng-yan-mie-chen-ying/chen-da-fu-zhong-fu-jin/untitled-1.md)
     * [揭开一角](man-sheng-yan-mie-chen-ying/chen-da-fu-zhong-fu-jin/di-si-zhang-jie-kai-yi-jiao.md)
     * [灰雾与高墙](man-sheng-yan-mie-chen-ying/chen-da-fu-zhong-fu-jin/di-wu-zhang-hui-wu-yu-gao-qiang.md)
     * [网吧角落](man-sheng-yan-mie-chen-ying/chen-da-fu-zhong-fu-jin/di-liu-zhang-wang-ba-de-jiao-luo.md)
