@@ -22,7 +22,6 @@
   * [边界器信息](man-sheng-yan-mie-chen-ying/untitled-6.md)
   * [结局 - 大崩溃](man-sheng-yan-mie-chen-ying/untitled-7.md)
   * [群像](man-sheng-yan-mie-chen-ying/qun-xiang.md)
-* [借鉴情节，发条女孩](jie-jian-qing-jie-fa-tiao-nv-hai.md)
 * [《蔓生湮灭·边界》——往生界](zheng-wen-1/README.md)
   * [Untitled](zheng-wen-1/untitled.md)
   * [第四章](zheng-wen-1/di-si-zhang.md)
