@@ -10,7 +10,7 @@
   * [历史一](man-sheng-yan-mie-chen-ying/li-shi-yi.md)
   * [历史二](man-sheng-yan-mie-chen-ying/li-shi-er.md)
   * [采矿管-坎](man-sheng-yan-mie-chen-ying/caikuangguan-kan.md)
-  * [生电堆容灰希](man-sheng-yan-mie-chen-ying/shengdiandui-rong-hui-xi.md)
+  * [生电堆-容灰希](man-sheng-yan-mie-chen-ying/shengdiandui-rong-hui-xi.md)
   * [铁鼠黑市-出蜗壬鼠](man-sheng-yan-mie-chen-ying/tieshuheishi-chuworenshu.md)
   * [下水道聚居区-谷妄蓝](man-sheng-yan-mie-chen-ying/xiashuidao-guwanglan/README.md)
     * [谷妄蓝总剧情](man-sheng-yan-mie-chen-ying/xiashuidao-guwanglan/untitled-4.md)
