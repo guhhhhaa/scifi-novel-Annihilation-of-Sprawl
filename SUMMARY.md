@@ -15,7 +15,6 @@
       * [谷妄蓝](man-sheng-yan-mie-chen-ying/duo-bai-cheng/gu-wang-lan-bei-zhe-mo-he-bing/untitled-9.md)
       * [阳光与黑暗（未完成）](man-sheng-yan-mie-chen-ying/duo-bai-cheng/gu-wang-lan-bei-zhe-mo-he-bing/yang-guang-yu-hei-an-wei-wan-cheng.md)
       * [补充三，中世纪审判，阿斯蒙蒂斯](man-sheng-yan-mie-chen-ying/duo-bai-cheng/gu-wang-lan-bei-zhe-mo-he-bing/untitled-6.md)
-    * [补充一 寻找谷妄蓝](man-sheng-yan-mie-chen-ying/duo-bai-cheng/bu-chong-yi-xun-zhao-gu-wang-lan.md)
     * [🌟白色人偶 & 山寨边界器 & 玄冥界的专家](man-sheng-yan-mie-chen-ying/duo-bai-cheng/xu-yao-luo-qing-chu-de-qing-jie.md)
   * [生电堆](man-sheng-yan-mie-chen-ying/sheng-dian-dui/README.md)
     * [坎战斗](man-sheng-yan-mie-chen-ying/sheng-dian-dui/er.md)
