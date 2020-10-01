@@ -27,7 +27,6 @@
   * [群像](man-sheng-yan-mie-chen-ying/qun-xiang.md)
 * [借鉴情节，发条女孩](jie-jian-qing-jie-fa-tiao-nv-hai/README.md)
   * [出蜗壬鼠](jie-jian-qing-jie-fa-tiao-nv-hai/yi.md)
-  * [陈颖和死灵风眼](jie-jian-qing-jie-fa-tiao-nv-hai/san.md)
   * [容灰希](jie-jian-qing-jie-fa-tiao-nv-hai/rong-hui-xi.md)
 * [《蔓生湮灭·边界》——往生界](zheng-wen-1/README.md)
   * [Untitled](zheng-wen-1/untitled.md)
