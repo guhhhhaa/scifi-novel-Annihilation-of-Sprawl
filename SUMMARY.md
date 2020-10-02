@@ -21,6 +21,8 @@
   * [安雅山脉边界社会议室](man-sheng-yan-mie-chen-ying/an-ya-shan-mai-bian-jie-she-ji-mi-ya-kong-jian-hui-yi-shi.md)
   * [边界器信息](man-sheng-yan-mie-chen-ying/untitled-6.md)
   * [结局 - 大崩溃](man-sheng-yan-mie-chen-ying/untitled-7.md)
+  * [历史二](man-sheng-yan-mie-chen-ying/li-shi-er-1.md)
+  * [荒神，瓜神，演化后人类](man-sheng-yan-mie-chen-ying/huang-shen-gua-shen-yan-hua-hou-ren-lei.md)
   * [群像](man-sheng-yan-mie-chen-ying/qun-xiang.md)
 * [《蔓生湮灭·边界》——往生界](man-sheng-yan-mie-bian-jie/README.md)
   * [Untitled](man-sheng-yan-mie-bian-jie/untitled.md)
