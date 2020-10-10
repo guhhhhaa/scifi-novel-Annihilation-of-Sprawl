@@ -38,6 +38,7 @@
 * [《蔓生湮灭·幻妖》——玄冥界](man-sheng-yan-mie-huan-yao/README.md)
   * [正文](man-sheng-yan-mie-huan-yao/zheng-wen.md)
 * [《蔓生湮灭·置换》——若尘界](man-sheng-yan-mie-zhi-huan/README.md)
+  * [草稿](man-sheng-yan-mie-zhi-huan/cao-gao.md)
   * [第一章 生存](man-sheng-yan-mie-zhi-huan/zheng-wen.md)
   * [第二章 方向](man-sheng-yan-mie-zhi-huan/di-er-zhang-fang-xiang.md)
   * [第三章 海](man-sheng-yan-mie-zhi-huan/di-san-zhang-hai.md)
