@@ -26,6 +26,7 @@
   * [群像](man-sheng-yan-mie-chen-ying/qun-xiang.md)
 * [《蔓生湮灭·边界》——往生界](man-sheng-yan-mie-bian-jie/README.md)
   * [纳米分形](man-sheng-yan-mie-bian-jie/untitled-1.md)
+  * [奇点前夜](man-sheng-yan-mie-bian-jie/qi-dian-qian-ye.md)
   * [Untitled](man-sheng-yan-mie-bian-jie/untitled.md)
   * [第四章](man-sheng-yan-mie-bian-jie/di-si-zhang.md)
   * [第五章](man-sheng-yan-mie-bian-jie/di-wu-zhang.md)
