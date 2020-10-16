@@ -35,6 +35,7 @@
   * [第十二章 晶格化](man-sheng-yan-mie-bian-jie/untitled-2.md)
   * [未确定片段](man-sheng-yan-mie-bian-jie/wei-que-ding-pian-duan.md)
   * [游戏世界的扩写](man-sheng-yan-mie-bian-jie/you-xi-shi-jie-de-kuo-xie.md)
+  * [灰蛊](man-sheng-yan-mie-bian-jie/hui-gu.md)
 * [《蔓生湮灭·幻妖》——玄冥界](man-sheng-yan-mie-huan-yao/README.md)
   * [正文](man-sheng-yan-mie-huan-yao/zheng-wen.md)
 * [《蔓生湮灭·置换》——若尘界](man-sheng-yan-mie-zhi-huan/README.md)
