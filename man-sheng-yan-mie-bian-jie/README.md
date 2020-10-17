@@ -22,7 +22,13 @@
 
 {% embed url="https://docs.google.com/spreadsheets/d/1CGfx50yXWtumIh37bt-6gem7Ir8yyNrjGgU9tFluIrY/edit?usp=sharing" %}
 
-## 蔓生物
-
 ![](../.gitbook/assets/ping-mu-kuai-zhao-20201011-xia-wu-10.19.18.png)
+
+![](../.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-7.14.00.png)
+
+![](../.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-6.54.46.png)
+
+![](../.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-6.54.59.png)
+
+![](../.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-6.55.14.png)
 
