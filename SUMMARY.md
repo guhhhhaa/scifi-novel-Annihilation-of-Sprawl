@@ -29,7 +29,7 @@
   * [目录](man-sheng-yan-mie-bian-jie/mu-lu.md)
   * [剧情-纳米分形](man-sheng-yan-mie-bian-jie/untitled-1.md)
   * [奇点前夜](man-sheng-yan-mie-bian-jie/qi-dian-qian-ye.md)
-  * [灰蛊](man-sheng-yan-mie-bian-jie/hui-gu.md)
+  * [灰蛊+原体+主脑，超构造体](man-sheng-yan-mie-bian-jie/hui-gu.md)
   * [Untitled](man-sheng-yan-mie-bian-jie/untitled.md)
   * [第四章](man-sheng-yan-mie-bian-jie/di-si-zhang.md)
   * [第五章](man-sheng-yan-mie-bian-jie/di-wu-zhang.md)
