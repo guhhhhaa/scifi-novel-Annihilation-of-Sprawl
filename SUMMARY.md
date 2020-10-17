@@ -31,6 +31,7 @@
   * [奇点前夜](man-sheng-yan-mie-bian-jie/qi-dian-qian-ye.md)
   * [灰蛊+原体+主脑，超构造体](man-sheng-yan-mie-bian-jie/hui-gu.md)
   * [Untitled](man-sheng-yan-mie-bian-jie/untitled-3.md)
+  * [容灰希，主脑，出蜗壬鼠，黑频](man-sheng-yan-mie-bian-jie/rong-hui-xi-zhu-nao-chu-wo-ren-shu-hei-pin.md)
   * [Untitled](man-sheng-yan-mie-bian-jie/untitled.md)
   * [第四章](man-sheng-yan-mie-bian-jie/di-si-zhang.md)
   * [第五章](man-sheng-yan-mie-bian-jie/di-wu-zhang.md)
