@@ -6,6 +6,10 @@
 
 ![](../.gitbook/assets/4.png)
 
+## 豆瓣阅读
+
+[https://read.douban.com/column/35176811/](https://read.douban.com/column/35176811/)
+
 ## 简介
 
 新的千年，灵隐界，往生界与玄冥界已经解体，世界进入了废土时期，资源枯竭，人类陷入末日。  
