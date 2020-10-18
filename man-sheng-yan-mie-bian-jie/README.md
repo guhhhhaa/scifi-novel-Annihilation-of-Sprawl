@@ -4,6 +4,10 @@
 
 ![](../.gitbook/assets/2.png)
 
+## 豆瓣阅读
+
+[https://read.douban.com/column/8025520/](https://read.douban.com/column/8025520/)
+
 ## 简介
 
 纳米战争爆发后，蔓生城市“多百城”与“尘坞”已经处于摇摇欲坠的危险边缘。

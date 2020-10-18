@@ -4,6 +4,10 @@
 
 ![](../.gitbook/assets/1.png)
 
+## 豆瓣阅读
+
+[https://read.douban.com/column/8016582/](https://read.douban.com/column/8016582/)
+
 ## 简介
 
 意识上传的时代人类并没有离开现实，而是活在现实与脑机幻境的夹缝中，纳米技术和智能科技将人类逼上了绝路。
