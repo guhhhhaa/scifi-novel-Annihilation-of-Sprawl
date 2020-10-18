@@ -4,6 +4,10 @@
 
 ![](../.gitbook/assets/3%20%281%29.png)
 
+## 豆瓣阅读
+
+[https://read.douban.com/column/8025637/](https://read.douban.com/column/8025637/)
+
 ## 简介
 
 在以量子技术为核心的城市——玄冥界，安雅公司取代了管理组的位置。
