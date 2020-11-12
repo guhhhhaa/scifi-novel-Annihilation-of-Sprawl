@@ -25,6 +25,7 @@
   * [历史二](man-sheng-yan-mie-chen-ying/li-shi-er-1.md)
   * [群像](man-sheng-yan-mie-chen-ying/qun-xiang.md)
 * [《蔓生湮灭·边界》——往生界](man-sheng-yan-mie-bian-jie/README.md)
+  * [设定](man-sheng-yan-mie-bian-jie/she-ding.md)
   * [战争的开始](man-sheng-yan-mie-bian-jie/zhan-zheng-de-kai-shi.md)
   * [目录](man-sheng-yan-mie-bian-jie/mu-lu.md)
   * [剧情-纳米分形](man-sheng-yan-mie-bian-jie/untitled-1.md)
