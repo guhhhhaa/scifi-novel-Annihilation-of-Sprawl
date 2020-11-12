@@ -14,6 +14,14 @@ description: Annihilation of Sprawl
 
 [https://read.douban.com/column/8016582/](https://read.douban.com/column/8016582/)
 
+{% embed url="https://read.douban.com/column/8025520/" %}
+
+[https://read.douban.com/column/8025637/](https://read.douban.com/column/8025637/)
+
+[https://read.douban.com/column/35176811/](https://read.douban.com/column/35176811/)
+
+[https://read.douban.com/column/35180947/](https://read.douban.com/column/35180947/)
+
 ## 贴吧讨论区
 
 科幻小说吧：[https://tieba.baidu.com/p/6931660956](https://tieba.baidu.com/p/6931660956)
