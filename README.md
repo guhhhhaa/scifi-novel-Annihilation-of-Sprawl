@@ -22,7 +22,7 @@ description: Annihilation of Sprawl
 
 {% embed url="https://read.douban.com/column/35180947/" %}
 
-## 贴吧讨论区
+## 贴吧讨论区（读者可在此留下评论或建议）
 
 科幻小说吧：[https://tieba.baidu.com/p/6931660956](https://tieba.baidu.com/p/6931660956)
 
