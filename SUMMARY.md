@@ -48,6 +48,7 @@
   * [正文](man-sheng-yan-mie-huan-yao/zheng-wen.md)
 * [《蔓生湮灭·置换》——若尘界](man-sheng-yan-mie-zhi-huan/README.md)
   * [爬行者的远航](man-sheng-yan-mie-zhi-huan/pa-hang-zhe-de-yuan-hang.md)
+  * [分拣](man-sheng-yan-mie-zhi-huan/fen-jian.md)
   * [折叠](man-sheng-yan-mie-zhi-huan/zhe-die/README.md)
     * [草稿待合并一](man-sheng-yan-mie-zhi-huan/zhe-die/cao-gao.md)
     * [草稿待合并二](man-sheng-yan-mie-zhi-huan/zhe-die/cao-gao-dai-he-bing-er.md)
