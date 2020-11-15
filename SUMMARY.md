@@ -50,6 +50,7 @@
   * [爬行者的远航](man-sheng-yan-mie-zhi-huan/pa-hang-zhe-de-yuan-hang.md)
   * [分拣](man-sheng-yan-mie-zhi-huan/fen-jian/README.md)
     * [逃亡](man-sheng-yan-mie-zhi-huan/fen-jian/tao-wang.md)
+    * [尘暴](man-sheng-yan-mie-zhi-huan/fen-jian/chen-bao.md)
     * [村子](man-sheng-yan-mie-zhi-huan/fen-jian/cun-zi.md)
     * [小女孩](man-sheng-yan-mie-zhi-huan/fen-jian/xiao-nv-hai.md)
     * [死亡](man-sheng-yan-mie-zhi-huan/fen-jian/si-wang.md)
