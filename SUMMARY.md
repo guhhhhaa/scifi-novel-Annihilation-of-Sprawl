@@ -55,6 +55,7 @@
     * [死亡](man-sheng-yan-mie-zhi-huan/fen-jian/si-wang.md)
     * [纳米战争](man-sheng-yan-mie-zhi-huan/fen-jian/na-mi-zhan-zheng.md)
     * [世界的起源](man-sheng-yan-mie-zhi-huan/fen-jian/shi-jie-de-qi-yuan.md)
+    * [三](man-sheng-yan-mie-zhi-huan/fen-jian/san.md)
   * [折叠](man-sheng-yan-mie-zhi-huan/zhe-die/README.md)
     * [草稿待合并一](man-sheng-yan-mie-zhi-huan/zhe-die/cao-gao.md)
     * [草稿待合并二](man-sheng-yan-mie-zhi-huan/zhe-die/cao-gao-dai-he-bing-er.md)
