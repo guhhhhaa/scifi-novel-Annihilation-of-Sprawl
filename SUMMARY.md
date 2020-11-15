@@ -56,6 +56,7 @@
     * [村子](man-sheng-yan-mie-zhi-huan/fen-jian/cun-zi.md)
     * [小女孩](man-sheng-yan-mie-zhi-huan/fen-jian/xiao-nv-hai.md)
     * [死亡](man-sheng-yan-mie-zhi-huan/fen-jian/si-wang.md)
+    * [离开](man-sheng-yan-mie-zhi-huan/fen-jian/li-kai.md)
     * [纳米少女-纳米战争](man-sheng-yan-mie-zhi-huan/fen-jian/na-mi-zhan-zheng.md)
     * [纳米少女-世界的起源](man-sheng-yan-mie-zhi-huan/fen-jian/shi-jie-de-qi-yuan.md)
     * [小男孩](man-sheng-yan-mie-zhi-huan/fen-jian/san.md)
