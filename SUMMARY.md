@@ -51,6 +51,7 @@
   * [第一章 生存](man-sheng-yan-mie-zhi-huan/zheng-wen.md)
   * [第二章 方向](man-sheng-yan-mie-zhi-huan/di-er-zhang-fang-xiang.md)
   * [第三章 海](man-sheng-yan-mie-zhi-huan/di-san-zhang-hai.md)
+  * [爬行者的远航](man-sheng-yan-mie-zhi-huan/pa-hang-zhe-de-yuan-hang.md)
 * [《蔓生湮灭·言零》——言晦界](man-sheng-yan-mie-yan-ling/README.md)
   * [第1卷 出发](man-sheng-yan-mie-yan-ling/di-1-juan-chu-fa/README.md)
     * [第1章 意识转移](man-sheng-yan-mie-yan-ling/di-1-juan-chu-fa/di-1-zhang-yi-shi-zhuan-yi.md)
