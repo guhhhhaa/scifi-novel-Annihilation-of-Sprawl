@@ -2,6 +2,10 @@
 
 {% embed url="https://www.processon.com/view/link/5f5123cd5653bb53ea8e5e86" %}
 
+
+
+![](../../.gitbook/assets/a-1-1.png)
+
 * 管理组：蔓生城市的官方管理组织
 * 安雅公司：星系级超大型组织，由于发展过快，其本部已遗弃对他们来说资源枯竭的地球。
 * 灵隐
