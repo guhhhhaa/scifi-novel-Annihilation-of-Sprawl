@@ -274,7 +274,7 @@
 
 ### 阵营
 
-![A4-8](file:///Users/apple/Desktop/A4-8.png?lastModify=1606442865)
+![](.gitbook/assets/a4-8.png)
 
 #### 灵隐界
 
@@ -298,7 +298,7 @@
 
 #### 管理组\(the Management Group\)
 
-![A-1-1](file:///Users/apple/Desktop/A-1-1.png?lastModify=1606442865)
+![](.gitbook/assets/a-1-1.png)
 
 灵隐界的最高执政组织。
 
