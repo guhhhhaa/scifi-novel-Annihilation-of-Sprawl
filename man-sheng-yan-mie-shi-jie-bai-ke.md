@@ -4,6 +4,8 @@
 
 ### 人物
 
+![](.gitbook/assets/a4-5%20%281%29.png)
+
 ![](.gitbook/assets/an-13.png)
 
 #### 陈颖
