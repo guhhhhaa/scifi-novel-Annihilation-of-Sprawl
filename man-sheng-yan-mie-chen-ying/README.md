@@ -22,7 +22,7 @@
 
 ## 地图
 
-![](../.gitbook/assets/a4-3%20%282%29.png)
+![](../.gitbook/assets/a4-3%20%281%29.png)
 
 ![](../.gitbook/assets/a4-1%20%281%29.png)
 

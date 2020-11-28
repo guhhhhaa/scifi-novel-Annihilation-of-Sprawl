@@ -4,7 +4,7 @@
 
 ### 人物
 
-![](file:///Users/apple/Desktop/A4-5.png?lastModify=1606558632)
+![](../.gitbook/assets/an-13.png)
 
 ![](file:///Users/apple/Desktop/AN-13.png?lastModify=1606558632)
 
