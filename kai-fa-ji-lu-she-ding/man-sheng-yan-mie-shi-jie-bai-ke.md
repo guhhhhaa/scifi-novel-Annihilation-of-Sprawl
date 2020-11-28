@@ -4,7 +4,7 @@
 
 ### 人物
 
-![](../.gitbook/assets/an-13.png)
+![](../.gitbook/assets/a4-5%20%281%29.png)
 
 ![](../.gitbook/assets/an-13.png)
 
@@ -298,7 +298,7 @@
 
 ### 地理设定
 
-![](file:///Users/apple/Desktop/A4-12.png?lastModify=1606558632)
+![](../.gitbook/assets/hua-ban-2.png)
 
 ![](file:///Users/apple/Desktop/A4-7.png?lastModify=1606558632)
 
