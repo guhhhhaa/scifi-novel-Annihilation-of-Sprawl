@@ -28,6 +28,10 @@ description: Annihilation of Sprawl
 
 科幻吧：[https://tieba.baidu.com/p/6930676215](https://tieba.baidu.com/p/6930676215)
 
+## 豆瓣小组
+
+[https://www.douban.com/group/711620/](https://www.douban.com/group/711620/)
+
 ## Github备份
 
 {% embed url="https://github.com/guhhhhaa/scifi-novel" %}
