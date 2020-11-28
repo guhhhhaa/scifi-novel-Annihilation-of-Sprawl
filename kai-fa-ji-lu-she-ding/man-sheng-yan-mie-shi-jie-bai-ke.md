@@ -6,7 +6,7 @@
 
 ![](../.gitbook/assets/an-13.png)
 
-![](file:///Users/apple/Desktop/AN-13.png?lastModify=1606558632)
+![](../.gitbook/assets/an-13.png)
 
 #### 陈颖
 
