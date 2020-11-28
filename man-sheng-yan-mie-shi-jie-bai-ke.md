@@ -4,9 +4,9 @@
 
 ### 人物
 
-![](.gitbook/assets/a4-5%20%281%29.png)
+![](file:///Users/apple/Desktop/A4-5.png?lastModify=1606558632)
 
-![](.gitbook/assets/an-13.png)
+![](file:///Users/apple/Desktop/AN-13.png?lastModify=1606558632)
 
 #### 陈颖
 
@@ -296,9 +296,29 @@
 
 能力：作为干涉者能控制干涉力场，作为造像者能控制奇异力场，可使用【奇异力场引导器】，可接管\[置换发生器\]
 
+### 地理设定
+
+![](file:///Users/apple/Desktop/A4-12.png?lastModify=1606558632)
+
+![](file:///Users/apple/Desktop/A4-7.png?lastModify=1606558632)
+
+![](file:///Users/apple/Desktop/A4-1.png?lastModify=1606558632)
+
+![](file:///Users/apple/Desktop/A4-2.png?lastModify=1606558632)
+
+![](file:///Users/apple/Desktop/A4-10.png?lastModify=1606558632)
+
+![](file:///Users/apple/Desktop/A4-11.png?lastModify=1606558632)
+
+![](file:///Users/apple/Desktop/A4-3.png?lastModify=1606558632)
+
+![](file:///Users/apple/Desktop/A4*3.png?lastModify=1606558632)
+
 ### 阵营
 
-![](.gitbook/assets/a4-8.png)
+![](file:///Users/apple/Desktop/A4-4.png?lastModify=1606558632)
+
+![](file:///Users/apple/Desktop/A4-8.png?lastModify=1606558632)
 
 #### 灵隐界
 
@@ -322,7 +342,7 @@
 
 #### 管理组\(the Management Group\)
 
-![](.gitbook/assets/a-1-1.png)
+![](file:///Users/apple/Desktop/A-1-1.png?lastModify=1606558632)
 
 灵隐界的最高执政组织。
 
@@ -334,7 +354,7 @@
 
 #### 灵隐基因骇客组织\(Spirit-Cryptic Gene-Hacker Organization\)
 
-![](.gitbook/assets/a-2-1.png)
+![](file:///Users/apple/Desktop/A-2-1.png?lastModify=1606558632)
 
 位于灵隐界灵隐寺的基因骇客组织。
 
@@ -346,13 +366,13 @@
 
 #### 国家虚拟历史博物馆\(National Virtual History Museum of Dust-Dock City\)
 
-![](.gitbook/assets/a-3-1.png)
+![](file:///Users/apple/Desktop/A-3-1.png?lastModify=1606558632)
 
-存放灵隐界过去，现在，未来的一切数据的博物馆。 由量子计算机和电子计算机构成的超级计算机组成。连接量子加密网络和国家机器。 中国国家历史博物馆是为了和安雅公司的游戏世界竞争而存在的，但最后也没竞争过。
+存放灵隐界过去，现在，未来的一切数据的博物馆。\ 由量子计算机和电子计算机构成的超级计算机组成。连接量子加密网络和国家机器。\ 中国国家历史博物馆是为了和安雅公司的游戏世界竞争而存在的，但最后也没竞争过。
 
 #### 执行委员会\(Central Executive Committee of Multi-Hundred City\)
 
-![](.gitbook/assets/a-3-2.png)
+![](file:///Users/apple/Desktop/A-3-2.png?lastModify=1606558632)
 
 往生界的最高执政组织，位于多百城，之前受管理组管辖，不过后来从中独立出来了。管辖【汉白玉按钮】，控制\[天河X号\]。
 
@@ -362,19 +382,21 @@
 
 #### 生电堆\(the Biological Electronic Stack\)
 
-![](.gitbook/assets/a-4-1.png)
+![](file:///Users/apple/Desktop/A-4-1.png?lastModify=1606558632)
 
 载体构成体的生产工厂，对接铁鼠黑市。其下设有制造合成人的造生塔，制造合成意识的造生堆和将二者组合成载体人的生电集阵。
 
+![](file:///Users/apple/Desktop/A4-6.png?lastModify=1606558632)
+
 #### 铁鼠商会\(Iron-Mouse Chamber of Commerce\)
 
-![](.gitbook/assets/a-5-1.png)
+![](file:///Users/apple/Desktop/A-5-1.png?lastModify=1606558632)
 
 实际控制多百城-下层区-污染区的民间组织，出蜗壬鼠是其控制者，
 
 #### 安雅公司\(Anya Capital Group Co., Ltd.\)
 
-![](.gitbook/assets/a-6-1.png)
+![](file:///Users/apple/Desktop/A-6-1.png?lastModify=1606558632)
 
 星系级超大型组织，由于发展过快，其本部已遗弃对他们来说资源枯竭的地球。
 
@@ -390,11 +412,11 @@
 
 #### 【预言之球】
 
-黑频和舞妄同时接触的装置，可以预测干涉力场的发生。并显示为——灵示，能链接国家机器，引导国家机器重塑历史进程。
+黑频和舞妄同时接触的装置，可以预测干涉力场的发生。并显示为------灵示，能链接国家机器，引导国家机器重塑历史进程。
 
 #### 【无面佛像】
 
-灵隐寺的临界不测物品，可以检测干涉痕迹。陈颖和死灵风眼的干涉痕迹，显示为——隐示，并能调取预言之球的灵示作为对比。
+灵隐寺的临界不测物品，可以检测干涉痕迹。陈颖和死灵风眼的干涉痕迹，显示为------隐示，并能调取预言之球的灵示作为对比。
 
 #### 【红檀木盒子】
 
@@ -432,9 +454,9 @@
 
 #### \[造生塔\]
 
-生电堆的一部分——用来生产合成人
+生电堆的一部分------用来生产合成人
 
-生电堆之外——塔，用于打印仿生纳米机器人，
+生电堆之外------塔，用于打印仿生纳米机器人，
 
 #### \[造生堆\]
 
@@ -461,6 +483,10 @@
 可控核聚变反应堆，用来约束等离子体，进行核聚变，以提供大量能量
 
 ### 力场
+
+![](file:///Users/apple/Desktop/A4-2-1.png?lastModify=1606558632)
+
+![](file:///Users/apple/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-10-17%20%E4%B8%8B%E5%8D%887.29.16.png?lastModify=1606558632)
 
 #### 置换力场
 
@@ -491,4 +517,24 @@
 使纳米机械，纳米生物和电子计算机完全宕机。
 
 副作用：同上
+
+### 力量体系
+
+![](file:///Users/apple/Desktop/A4-2-2.png?lastModify=1606558632)
+
+![](file:///Users/apple/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-10-11%20%E4%B8%8B%E5%8D%8810.19.18.png?lastModify=1606558632)
+
+### 职业
+
+![](file:///Users/apple/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-10-17%20%E4%B8%8B%E5%8D%886.54.59.png?lastModify=1606558632)
+
+![](file:///Users/apple/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-10-17%20%E4%B8%8B%E5%8D%886.54.46.png?lastModify=1606558632)
+
+### 时间线
+
+![](file:///Users/apple/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-10-17%20%E4%B8%8B%E5%8D%886.55.14.png?lastModify=1606558632)
+
+### 科技树
+
+![&#x751F;&#x7535;&#x793E;&#x5386;&#x53F2;](file:///Users/apple/Downloads/%E7%94%9F%E7%94%B5%E7%A4%BE%E5%8E%86%E5%8F%B2.png?lastModify=1606558632)
 
