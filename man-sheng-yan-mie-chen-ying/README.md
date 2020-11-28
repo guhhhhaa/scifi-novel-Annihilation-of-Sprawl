@@ -52,7 +52,7 @@
 
 ## 人物关系
 
-![](../.gitbook/assets/a4-5.png)
+![](../.gitbook/assets/a4-5%20%281%29.png)
 
 ## 力量体系
 
