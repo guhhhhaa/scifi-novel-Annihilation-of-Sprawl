@@ -350,7 +350,7 @@
 
 #### 安雅公司\(Anya Capital Group Co., Ltd.\)
 
-![A-6-1](file:///Users/apple/Desktop/A-6-1.png?lastModify=1606442865)
+![](.gitbook/assets/a-6-1.png)
 
 星系级超大型组织，由于发展过快，其本部已遗弃对他们来说资源枯竭的地球。
 
