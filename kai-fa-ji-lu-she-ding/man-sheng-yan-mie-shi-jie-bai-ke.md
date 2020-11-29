@@ -446,7 +446,7 @@
 
 ![](../.gitbook/assets/a4-4.png)
 
-![A4-8](file:///Users/apple/Desktop/A4-8.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-8.png)
 
 #### 灵隐界
 
@@ -470,7 +470,7 @@
 
 #### 管理组\(the Management Group\)
 
-![A-1-1](file:///Users/apple/Desktop/A-1-1.png?lastModify=1606615983)
+![](../.gitbook/assets/a-1-1.png)
 
 灵隐界的最高执政组织。
 
@@ -482,7 +482,7 @@
 
 #### 灵隐基因骇客组织\(Spirit-Cryptic Gene-Hacker Organization\)
 
-![A-2-1](file:///Users/apple/Desktop/A-2-1.png?lastModify=1606615983)
+![](../.gitbook/assets/a-2-1.png)
 
 位于灵隐界灵隐寺的基因骇客组织。
 
@@ -494,13 +494,13 @@
 
 #### 国家虚拟历史博物馆\(National Virtual History Museum of Dust-Dock City\)
 
-![A-3-1](file:///Users/apple/Desktop/A-3-1.png?lastModify=1606615983)
+![](../.gitbook/assets/a-3-1.png)
 
 存放灵隐界过去，现在，未来的一切数据的博物馆。 由量子计算机和电子计算机构成的超级计算机组成。连接量子加密网络和国家机器。 中国国家历史博物馆是为了和安雅公司的游戏世界竞争而存在的，但最后也没竞争过。
 
 #### 执行委员会\(Central Executive Committee of Multi-Hundred City\)
 
-![A-3-2](file:///Users/apple/Desktop/A-3-2.png?lastModify=1606615983)
+![](../.gitbook/assets/a-3-2.png)
 
 往生界的最高执政组织，位于多百城，之前受管理组管辖，不过后来从中独立出来了。管辖【汉白玉按钮】，控制\[天河X号\]。
 
@@ -510,21 +510,21 @@
 
 #### 生电堆\(the Biological Electronic Stack\)
 
-![A-4-1](file:///Users/apple/Desktop/A-4-1.png?lastModify=1606615983)
+![](../.gitbook/assets/a-4-1.png)
 
 载体构成体的生产工厂，对接铁鼠黑市。其下设有制造合成人的造生塔，制造合成意识的造生堆和将二者组合成载体人的生电集阵。
 
-![A4-6](file:///Users/apple/Desktop/A4-6.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-6.png)
 
 #### 铁鼠商会\(Iron-Mouse Chamber of Commerce\)
 
-![A-5-1](file:///Users/apple/Desktop/A-5-1.png?lastModify=1606615983)
+![](../.gitbook/assets/a-5-1.png)
 
 实际控制多百城-下层区-污染区的民间组织，出蜗壬鼠是其控制者，包括大佬鼠网吧，铁鼠工厂和铁鼠黑市
 
 #### 安雅公司\(Anya Capital Group Co., Ltd.\)
 
-![A-6-1](file:///Users/apple/Desktop/A-6-1.png?lastModify=1606615983)
+![](../.gitbook/assets/a-6-1.png)
 
 星系级超大型组织，由于发展过快，其本部已遗弃对他们来说资源枯竭的地球。
 
@@ -612,9 +612,9 @@
 
 ### 力场
 
-![A4-2-1](file:///Users/apple/Desktop/A4-2-1.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-2-1.png)
 
-![&#x5C4F;&#x5E55;&#x5FEB;&#x7167; 2020-10-17 &#x4E0B;&#x5348;7.29.16](file:///Users/apple/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-10-17%20%E4%B8%8B%E5%8D%887.29.16.png?lastModify=1606615983)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-7.29.16.png)
 
 #### 置换力场
 
@@ -648,17 +648,17 @@
 
 ### 力量体系
 
-![A4-2-2](file:///Users/apple/Desktop/A4-2-2.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-2-2.png)
 
-![&#x5C4F;&#x5E55;&#x5FEB;&#x7167; 2020-10-11 &#x4E0B;&#x5348;10.19.18](file:///Users/apple/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-10-11%20%E4%B8%8B%E5%8D%8810.19.18.png?lastModify=1606615983)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20201011-xia-wu-10.19.18.png)
 
 ### 职业
 
-![&#x5C4F;&#x5E55;&#x5FEB;&#x7167; 2020-10-17 &#x4E0B;&#x5348;6.54.59](file:///Users/apple/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-10-17%20%E4%B8%8B%E5%8D%886.54.59.png?lastModify=1606615983)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-6.54.59.png)
 
-![&#x5C4F;&#x5E55;&#x5FEB;&#x7167; 2020-10-17 &#x4E0B;&#x5348;6.54.46](file:///Users/apple/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-10-17%20%E4%B8%8B%E5%8D%886.54.46.png?lastModify=1606615983)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-6.54.46.png)
 
 ### 时间线
 
-![&#x5C4F;&#x5E55;&#x5FEB;&#x7167; 2020-10-17 &#x4E0B;&#x5348;6.55.14](file:///Users/apple/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202020-10-17%20%E4%B8%8B%E5%8D%886.55.14.png?lastModify=1606615983)
+![](../.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-6.55.14.png)
 
