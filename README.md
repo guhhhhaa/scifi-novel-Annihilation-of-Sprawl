@@ -28,7 +28,7 @@ description: Annihilation of Sprawl
 
 科幻吧：[https://tieba.baidu.com/p/6930676215](https://tieba.baidu.com/p/6930676215)
 
-## 豆瓣小组
+## 豆瓣小组（🌟读者可在此留下评论或建议）
 
 [https://www.douban.com/group/711620/](https://www.douban.com/group/711620/)
 
