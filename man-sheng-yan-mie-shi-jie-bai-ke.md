@@ -452,19 +452,25 @@
 
 组织：管理组\(the Management Group\)，灵隐基因骇客组织\(Spirit-Cryptic Gene-Hacker Organization\)，尘大附中 \(Attached middle school of Dust-Dock University\)，国家虚拟历史博物馆\(National Virtual History Museum of Dust-Dock City\)
 
-技术：生物，量子，纳米
+技术：生物，电子，量子，纳米
 
 #### 往生界
 
 组织：执行委员会\(Central Executive Committee of Multi-Hundred City\)，造生实验室/研究所 \(Manufacturing Biology Laboratory / Institute\)，生电堆\(the Biological Electronic Stack\)，铁鼠商会\(Iron-Mouse Chamber of Commerce\)
 
-生物，量子，纳米
+技术：生物，电子，量子，纳米
 
 #### 玄冥界
 
 组织：安雅公司\(Anya Capital Group Co., Ltd.\)
 
-超弦，金融
+技术：超弦，金融
+
+#### 若尘界
+
+组织：主脑\(the Main Brain\)，原体\(the Protoplasmic Organism\)，灰蛊\(the Gray Goo\)
+
+技术：生物，电子，量子，纳米，超弦
 
 ### 组织
 
@@ -531,6 +537,20 @@
 制造戴森球，控制反物质，研发环柯伊伯带超巨型对撞机，设计超弦计算机。
 
 安雅认为太阳系资源太少，不适合发展，于是他们决定向更广阔的宇宙展开探索。
+
+#### 主脑\(the Main Brain\)
+
+![](.gitbook/assets/a-7-1.png)
+
+#### 原体\(the Protoplasmic Organism\)
+
+![](.gitbook/assets/a-8-1.png)
+
+#### 灰蛊\(the Gray Goo\)
+
+![](.gitbook/assets/a-9-1.png)
+
+
 
 ### 临界不测物品
 
