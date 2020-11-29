@@ -4,9 +4,9 @@
 
 ### 人物
 
-![A4-5](file:///Users/apple/Desktop/A4-5.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-5%20%281%29.png)
 
-![AN-13](file:///Users/apple/Desktop/AN-13.png?lastModify=1606615983)
+![](../.gitbook/assets/an-13.png)
 
 #### 陈颖
 
@@ -418,33 +418,33 @@
 
 #### 宏观地图
 
-![A4-12](file:///Users/apple/Desktop/A4-12.png?lastModify=1606615983)
+![](../.gitbook/assets/hua-ban-2.png)
 
-![A4-7](file:///Users/apple/Desktop/A4-7.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-7.png)
 
 #### 灵隐界地图
 
-![A4-1](file:///Users/apple/Desktop/A4-1.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-1%20%281%29.png)
 
 #### 往生界地图
 
-![A4-2](file:///Users/apple/Desktop/A4-2.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-2.png)
 
-![A4-10](file:///Users/apple/Desktop/A4-10.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-10.png)
 
-![A4-11](file:///Users/apple/Desktop/A4-11.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-11.png)
 
 #### 玄冥界地图
 
-![A4-3](file:///Users/apple/Desktop/A4-3.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-3.png)
 
 #### 总地图
 
-![A4\*3](file:///Users/apple/Desktop/A4*3.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-3%20%281%29.png)
 
 ### 阵营
 
-![A4-4](file:///Users/apple/Desktop/A4-4.png?lastModify=1606615983)
+![](../.gitbook/assets/a4-4.png)
 
 ![A4-8](file:///Users/apple/Desktop/A4-8.png?lastModify=1606615983)
 
