@@ -108,7 +108,6 @@
     * [更加接近本源的地方](man-sheng-yan-mie-yan-ling/man-sheng-yan-mie-yan-ling/di-shi-zhang.md)
     * [陈颖说：既然大家不同意，那么我去好了。](man-sheng-yan-mie-yan-ling/man-sheng-yan-mie-yan-ling/di-shi-yi-zhang.md)
 * [开发记录：设定](kai-fa-ji-lu-she-ding/README.md)
-  * [蔓生湮灭世界百科](kai-fa-ji-lu-she-ding/man-sheng-yan-mie-shi-jie-bai-ke.md)
   * [开发记录1](kai-fa-ji-lu-she-ding/da-gang-1/README.md)
     * [蔓生湮灭·尘影 开发记录](kai-fa-ji-lu-she-ding/da-gang-1/1-1.md)
     * [蔓生城市](kai-fa-ji-lu-she-ding/da-gang-1/man-sheng-cheng-shi.md)
@@ -136,5 +135,6 @@
     * [爬行者-故事线](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-2/pa-hang-zhe-gu-shi-xian.md)
     * [爬行者-世界观-历史](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-2/pa-hang-zhe-shi-jie-guan-li-shi.md)
   * [开发记录5](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-3.md)
+* [蔓生湮灭世界百科](man-sheng-yan-mie-shi-jie-bai-ke.md)
 * [其他小说](qi-ta-xiao-shuo.md)
 

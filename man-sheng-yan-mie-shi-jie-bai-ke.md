@@ -4,9 +4,9 @@
 
 ### 人物
 
-![](../.gitbook/assets/a4-5%20%281%29.png)
+![](.gitbook/assets/a4-5%20%281%29.png)
 
-![](../.gitbook/assets/an-13.png)
+![](.gitbook/assets/an-13.png)
 
 #### 陈颖
 
@@ -418,35 +418,35 @@
 
 #### 宏观地图
 
-![](../.gitbook/assets/hua-ban-2.png)
+![](.gitbook/assets/hua-ban-2.png)
 
-![](../.gitbook/assets/a4-7.png)
+![](.gitbook/assets/a4-7.png)
 
 #### 灵隐界地图
 
-![](../.gitbook/assets/a4-1%20%281%29.png)
+![](.gitbook/assets/a4-1%20%281%29.png)
 
 #### 往生界地图
 
-![](../.gitbook/assets/a4-2.png)
+![](.gitbook/assets/a4-2.png)
 
-![](../.gitbook/assets/a4-10.png)
+![](.gitbook/assets/a4-10.png)
 
-![](../.gitbook/assets/a4-11.png)
+![](.gitbook/assets/a4-11.png)
 
 #### 玄冥界地图
 
-![](../.gitbook/assets/a4-3.png)
+![](.gitbook/assets/a4-3.png)
 
 #### 总地图
 
-![](../.gitbook/assets/a4-3%20%281%29.png)
+![](.gitbook/assets/a4-3%20%281%29.png)
 
 ### 阵营
 
-![](../.gitbook/assets/a4-4.png)
+![](.gitbook/assets/a4-4.png)
 
-![](../.gitbook/assets/a4-8.png)
+![](.gitbook/assets/a4-8.png)
 
 #### 灵隐界
 
@@ -470,7 +470,7 @@
 
 #### 管理组\(the Management Group\)
 
-![](../.gitbook/assets/a-1-1.png)
+![](.gitbook/assets/a-1-1.png)
 
 灵隐界的最高执政组织。
 
@@ -482,7 +482,7 @@
 
 #### 灵隐基因骇客组织\(Spirit-Cryptic Gene-Hacker Organization\)
 
-![](../.gitbook/assets/a-2-1.png)
+![](.gitbook/assets/a-2-1.png)
 
 位于灵隐界灵隐寺的基因骇客组织。
 
@@ -494,13 +494,13 @@
 
 #### 国家虚拟历史博物馆\(National Virtual History Museum of Dust-Dock City\)
 
-![](../.gitbook/assets/a-3-1.png)
+![](.gitbook/assets/a-3-1.png)
 
 存放灵隐界过去，现在，未来的一切数据的博物馆。 由量子计算机和电子计算机构成的超级计算机组成。连接量子加密网络和国家机器。 中国国家历史博物馆是为了和安雅公司的游戏世界竞争而存在的，但最后也没竞争过。
 
 #### 执行委员会\(Central Executive Committee of Multi-Hundred City\)
 
-![](../.gitbook/assets/a-3-2.png)
+![](.gitbook/assets/a-3-2.png)
 
 往生界的最高执政组织，位于多百城，之前受管理组管辖，不过后来从中独立出来了。管辖【汉白玉按钮】，控制\[天河X号\]。
 
@@ -510,21 +510,21 @@
 
 #### 生电堆\(the Biological Electronic Stack\)
 
-![](../.gitbook/assets/a-4-1.png)
+![](.gitbook/assets/a-4-1.png)
 
 载体构成体的生产工厂，对接铁鼠黑市。其下设有制造合成人的造生塔，制造合成意识的造生堆和将二者组合成载体人的生电集阵。
 
-![](../.gitbook/assets/a4-6.png)
+![](.gitbook/assets/a4-6.png)
 
 #### 铁鼠商会\(Iron-Mouse Chamber of Commerce\)
 
-![](../.gitbook/assets/a-5-1.png)
+![](.gitbook/assets/a-5-1.png)
 
 实际控制多百城-下层区-污染区的民间组织，出蜗壬鼠是其控制者，包括大佬鼠网吧，铁鼠工厂和铁鼠黑市
 
 #### 安雅公司\(Anya Capital Group Co., Ltd.\)
 
-![](../.gitbook/assets/a-6-1.png)
+![](.gitbook/assets/a-6-1.png)
 
 星系级超大型组织，由于发展过快，其本部已遗弃对他们来说资源枯竭的地球。
 
@@ -612,9 +612,9 @@
 
 ### 力场
 
-![](../.gitbook/assets/a4-2-1.png)
+![](.gitbook/assets/a4-2-1.png)
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-7.29.16.png)
+![](.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-7.29.16.png)
 
 #### 置换力场
 
@@ -648,17 +648,17 @@
 
 ### 力量体系
 
-![](../.gitbook/assets/a4-2-2.png)
+![](.gitbook/assets/a4-2-2.png)
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20201011-xia-wu-10.19.18.png)
+![](.gitbook/assets/ping-mu-kuai-zhao-20201011-xia-wu-10.19.18.png)
 
 ### 职业
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-6.54.59.png)
+![](.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-6.54.59.png)
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-6.54.46.png)
+![](.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-6.54.46.png)
 
 ### 时间线
 
-![](../.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-6.55.14.png)
+![](.gitbook/assets/ping-mu-kuai-zhao-20201017-xia-wu-6.55.14.png)
 
