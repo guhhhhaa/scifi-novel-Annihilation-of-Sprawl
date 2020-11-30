@@ -128,7 +128,6 @@
       * [技术\(technology\)](kai-fa-ji-lu-she-ding/da-gang-1/shi-jie-guan/ji-shu-technology.md)
       * [社会\(society\)](kai-fa-ji-lu-she-ding/da-gang-1/shi-jie-guan/she-hui-society/README.md)
         * [种族，阶层](kai-fa-ji-lu-she-ding/da-gang-1/shi-jie-guan/she-hui-society/zhong-zu-jie-ceng.md)
-  * [开发记录2](kai-fa-ji-lu-she-ding/kai-fa-ji-lu.md)
   * [开发记录3](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-1/README.md)
     * [游戏世界--故事线](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-1/you-xi-shi-jie-gu-shi-xian.md)
     * [游戏世界-世界观](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-1/you-xi-shi-jie-shi-jie-guan.md)
@@ -136,6 +135,5 @@
   * [开发记录4](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-2/README.md)
     * [爬行者-故事线](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-2/pa-hang-zhe-gu-shi-xian.md)
     * [爬行者-世界观-历史](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-2/pa-hang-zhe-shi-jie-guan-li-shi.md)
-  * [开发记录5](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-3.md)
 * [其他小说](qi-ta-xiao-shuo.md)
 
