@@ -2,6 +2,7 @@
 
 * [蔓生湮灭](README.md)
 * [打赏支持](zhi-chi-zuo-zhe-de-chuang-zuo.md)
+* [蔓生湮灭世界百科](man-sheng-yan-mie-shi-jie-bai-ke.md)
 * [《蔓生湮灭·尘影》——灵隐界](man-sheng-yan-mie-chen-ying/README.md)
   * [死灵先圣](man-sheng-yan-mie-chen-ying/si-ling-xian-sheng.md)
   * [尘大附中附近](man-sheng-yan-mie-chen-ying/chen-da-fu-zhong-fu-jin.md)
@@ -136,6 +137,5 @@
     * [爬行者-故事线](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-2/pa-hang-zhe-gu-shi-xian.md)
     * [爬行者-世界观-历史](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-2/pa-hang-zhe-shi-jie-guan-li-shi.md)
   * [开发记录5](kai-fa-ji-lu-she-ding/kai-fa-ji-lu-3.md)
-* [蔓生湮灭世界百科](man-sheng-yan-mie-shi-jie-bai-ke.md)
 * [其他小说](qi-ta-xiao-shuo.md)
 
