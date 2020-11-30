@@ -10,10 +10,6 @@ description: Annihilation of Sprawl
 
 {% embed url="https://sites.google.com/view/guhhhhaa" %}
 
-## WikiDot（正在建设中）
-
-{% embed url="http://guhhhhaa.wikidot.com/" %}
-
 ## 豆瓣阅读
 
 {% embed url="https://read.douban.com/column/8016582/" %}
