@@ -10,10 +10,6 @@ description: Annihilation of Sprawl
 
 {% embed url="https://sites.google.com/view/guhhhhaa" %}
 
-## WikiDot（正在建设中）
-
-{% embed url="http://guhhhhaa.wikidot.com/" %}
-
 ## 豆瓣阅读
 
 {% embed url="https://read.douban.com/column/8016582/" %}
@@ -36,7 +32,7 @@ description: Annihilation of Sprawl
 
 [https://www.douban.com/group/711620/](https://www.douban.com/group/711620/)
 
-## Github
+## Github备份
 
 {% embed url="https://github.com/guhhhhaa/scifi-novel" %}
 

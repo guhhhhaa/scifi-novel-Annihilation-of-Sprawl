@@ -580,15 +580,27 @@
 
 ![](.gitbook/assets/a-7-1.png)
 
+于——玄冥界安雅公司的游戏世界\(the Game World\)，往生界多百城的量子加密网络\(the Quantum Encryption Network\)，以及灵隐界尘坞市的国家虚拟历史博物馆\(National Virtual History Museum of Dust-Dock City\)之中——自发形成的神经网络结构，共同构成了以分布式节点为基础的的人工智能——主脑。
+
+主脑是一个理论上无限扩展的分布式人工智能，没有固定的中心，但是被公认为代表所有网络的意志。
+
 #### 原体\(the Protoplasmic Organism\)
 
 ![](.gitbook/assets/a-8-1.png)
+
+原体\(the Protoplasmic Organism\)是一种生物原生质层的宏观形式，被认为是演化后人类，克伊罗病毒和丝钩蚴的共同祖先。
+
+原体与灰蛊\(the Gray Goo\)共同形成了遍布采矿管带和地下暗河的粘质\(the Viscous\)。
 
 #### 灰蛊\(the Gray Goo\)
 
 ![](.gitbook/assets/a-9-1.png)
 
+不受人类控制的纳米机械集群的统称，但是人类可以通过各种力场（如干涉力场，奇异力场和边界力场）间接引导纳米机械集群的力量。
 
+灰蛊代表纳米机械集群宏观层面的意志。灰蛊通过控制蔓生物形成超构造体，通过控制灰雾改变气候，通过控制幻妖等纳米生物执行其不可被人类言说的意志。
+
+原体与灰蛊\(the Gray Goo\)共同形成了遍布采矿管带和地下暗河的粘质\(the Viscous\)。
 
 ### 临界不测物品
 
