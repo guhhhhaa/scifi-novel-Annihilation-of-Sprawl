@@ -1,7 +1,7 @@
 # Table of contents
 
 * [蔓生湮灭](README.md)
-* [支持作者的创作](zhi-chi-zuo-zhe-de-chuang-zuo.md)
+* [打赏支持](zhi-chi-zuo-zhe-de-chuang-zuo.md)
 * [《蔓生湮灭·尘影》——灵隐界](man-sheng-yan-mie-chen-ying/README.md)
   * [死灵先圣](man-sheng-yan-mie-chen-ying/si-ling-xian-sheng.md)
   * [尘大附中附近](man-sheng-yan-mie-chen-ying/chen-da-fu-zhong-fu-jin.md)
