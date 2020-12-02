@@ -46,6 +46,8 @@ description: Annihilation of Sprawl
 
 938358873
 
+![](.gitbook/assets/b2f4fc44dbbfb182f4930d234ee2ce6e.png)
+
 ## Github
 
 {% embed url="https://github.com/guhhhhaa/scifi-novel" %}
