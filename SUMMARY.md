@@ -2,7 +2,10 @@
 
 * [蔓生湮灭](README.md)
 * [捐赠](donate.md)
-* [蔓生湮灭世界百科](wiki.md)
+* [蔓生湮灭世界百科](wiki/README.md)
+  * [宏观](wiki/hong-guan.md)
+  * [人物](wiki/ren-wu.md)
+  * [物品](wiki/wu-pin.md)
 * [《蔓生湮灭·尘影》——灵隐界](chen-ying/README.md)
   * [死灵先圣](chen-ying/si-ling-xian-sheng.md)
   * [尘大附中附近](chen-ying/chen-da-fu-zhong-fu-jin.md)
