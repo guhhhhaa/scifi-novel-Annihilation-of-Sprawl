@@ -10,10 +10,6 @@ description: Annihilation of Sprawl
 
 {% embed url="https://sites.google.com/view/guhhhhaa" %}
 
-## WikiDot（正在建设中）
-
-{% embed url="http://guhhhhaa.wikidot.com/" %}
-
 ## 豆瓣阅读
 
 {% embed url="https://read.douban.com/column/8016582/" %}
@@ -26,19 +22,23 @@ description: Annihilation of Sprawl
 
 {% embed url="https://read.douban.com/column/35180947/" %}
 
-## 贴吧讨论（🌟读者可在此留下评论或建议）
+## 豆瓣小组
+
+[https://www.douban.com/group/711620/](https://www.douban.com/group/711620/)
+
+## 百度贴吧
 
 科幻小说吧：[https://tieba.baidu.com/p/6931660956](https://tieba.baidu.com/p/6931660956)
 
 科幻吧：[https://tieba.baidu.com/p/6930676215](https://tieba.baidu.com/p/6930676215)
 
-## 豆瓣小组（🌟读者可在此留下评论或建议）
-
-[https://www.douban.com/group/711620/](https://www.douban.com/group/711620/)
-
 ## Github
 
 {% embed url="https://github.com/guhhhhaa/scifi-novel" %}
+
+## WikiDot（正在建设中）
+
+{% embed url="http://guhhhhaa.wikidot.com/" %}
 
 ## 《蔓生湮灭·尘影》
 
