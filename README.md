@@ -12,13 +12,23 @@ description: Annihilation of Sprawl
 
 ## 豆瓣阅读
 
+### 《蔓生湮灭·尘影》—— 灵隐界，软件与信息
+
 {% embed url="https://read.douban.com/column/8016582/" %}
+
+### 《蔓生湮灭·边界》—— 往生界，生物与纳米
 
 {% embed url="https://read.douban.com/column/8025520/" %}
 
+### 《蔓生湮灭·幻妖》—— 玄冥界，量子
+
 {% embed url="https://read.douban.com/column/8025637/" %}
 
+### 《蔓生湮灭·置换》—— 若尘界，废土
+
 {% embed url="https://read.douban.com/column/35176811/" %}
+
+### 《蔓生湮灭·言零》—— 言晦界，远程传送与超时空干涉
 
 {% embed url="https://read.douban.com/column/35180947/" %}
 
@@ -40,29 +50,9 @@ description: Annihilation of Sprawl
 
 {% embed url="http://guhhhhaa.wikidot.com/" %}
 
-## 《蔓生湮灭·尘影》
-
-—— 灵隐界，软件与信息
-
-[https://read.douban.com/column/8016582/](https://read.douban.com/column/8016582/)
-
-## 《蔓生湮灭·边界》
-
-—— 往生界，生物与纳米
+## Weavi
 
 [https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg](https://weavi.com/216837/HIdYtW0W0DDsxHwFxbkyTg)
-
-## 《蔓生湮灭·幻妖》
-
-—— 玄冥界，量子
-
-## 《蔓生湮灭·置换》
-
-—— 若尘界，废土
-
-## 《蔓生湮灭·言零》
-
-—— 言晦界，远程传送与超时空干涉
 
 ## 大纲
 
