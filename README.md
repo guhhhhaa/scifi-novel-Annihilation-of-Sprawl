@@ -4,49 +4,30 @@ description: Annihilation of Sprawl
 
 # 蔓生湮灭
 
-![Annihilation of Sprawl](.gitbook/assets/spaces_-m35v6svll3z-ggonuma_avatar-1585389178125.png)
+{% hint style="info" %}
+本书使用 [CC BY-SA 4.0 协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh\_TW) 保护版权。
+
+署名格式为：
+
+* 作者：王天佑 ( Guhhhhaa )
+* 原书网址：[https://guhhhhaa.gitbook.io/-1/](https://guhhhhaa.gitbook.io/-1/)
+{% endhint %}
+
+![Annihilation of Sprawl](.gitbook/assets/spaces\_-M35v6svLL3Z-GGONUMA\_avatar-1585389178125.png)
 
 ## 宣传网站
 
 {% embed url="https://sites.google.com/view/guhhhhaa" %}
 
-## 豆瓣阅读
-
-### 《蔓生湮灭·尘影》—— 灵隐界，软件与信息
-
-{% embed url="https://read.douban.com/column/8016582/" %}
-
-### 《蔓生湮灭·边界》—— 往生界，生物与纳米
-
-{% embed url="https://read.douban.com/column/8025520/" %}
-
-### 《蔓生湮灭·幻妖》—— 玄冥界，量子
-
-{% embed url="https://read.douban.com/column/8025637/" %}
-
-### 《蔓生湮灭·置换》—— 若尘界，废土
-
-{% embed url="https://read.douban.com/column/35176811/" %}
-
-### 《蔓生湮灭·言零》—— 言晦界，远程传送与超时空干涉
-
-{% embed url="https://read.douban.com/column/35180947/" %}
-
 ## 豆瓣小组
 
 [https://www.douban.com/group/711620/](https://www.douban.com/group/711620/)
-
-## 百度贴吧
-
-科幻小说吧：[https://tieba.baidu.com/p/6931660956](https://tieba.baidu.com/p/6931660956)
-
-科幻吧：[https://tieba.baidu.com/p/6930676215](https://tieba.baidu.com/p/6930676215)
 
 ## QQ群
 
 938358873
 
-![](.gitbook/assets/b2f4fc44dbbfb182f4930d234ee2ce6e.png)
+![](.gitbook/assets/B2F4FC44DBBFB182F4930D234EE2CE6E.png)
 
 ## Github
 
@@ -70,7 +51,9 @@ description: Annihilation of Sprawl
 
 {% embed url="https://www.processon.com/view/link/5f5123cd5653bb53ea8e5e86" %}
 
+{% embed url="https://www.processon.com/view/link/5f6fd8171e08531ce9d97c70" %}
+
 ## 其他小说
 
-{% embed url="https://drive.google.com/drive/folders/0BwELygENvsZXQ184NjViNTYzVXc?usp=sharing" %}
+{% embed url="https://drive.google.com/drive/folders/0BwELygENvsZXQ184NjViNTYzVXc?resourcekey=0-xvp09HQtw4Td2oeVi1p05Q&usp=sharing" %}
 

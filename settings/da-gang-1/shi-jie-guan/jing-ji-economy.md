@@ -1,2 +1,2 @@
-# 经济\(economy\)
+# 经济(economy)
 

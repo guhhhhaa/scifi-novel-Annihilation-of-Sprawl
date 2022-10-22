@@ -1,2 +1,2 @@
-# 社会\(society\)
+# 社会(society)
 

@@ -1,2 +1,2 @@
-# 政治\(politics\)
+# 政治(politics)
 

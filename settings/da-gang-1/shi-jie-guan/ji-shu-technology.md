@@ -1,2 +1,2 @@
-# 技术\(technology\)
+# 技术(technology)
 
