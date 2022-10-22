@@ -2,7 +2,7 @@
 
 ### 阵营
 
-![](<../.gitbook/assets/A4-8 (1).png>)
+![](../.gitbook/assets/A4-8.png)
 
 ![](<../.gitbook/assets/屏幕快照 2021-09-10 下午10.35.01.png>)
 

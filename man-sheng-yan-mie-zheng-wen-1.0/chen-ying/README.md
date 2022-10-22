@@ -56,7 +56,7 @@
 
 ## 势力图
 
-![](../../.gitbook/assets/A4-8.png)
+![](<../../.gitbook/assets/A4-8 (1).png>)
 
 ## 种族设定
 

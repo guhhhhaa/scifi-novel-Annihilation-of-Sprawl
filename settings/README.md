@@ -1,6 +1,6 @@
 # 蔓生湮灭世界百科1.0
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 {% content-ref url="da-gang-1/" %}
 [da-gang-1](da-gang-1/)
