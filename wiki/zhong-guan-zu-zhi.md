@@ -133,7 +133,7 @@
 
 安雅公司认为太阳系资源太少，不适合发展，于是他们决定向更广阔的宇宙展开探索。
 
-#### 架构所(**the Architecture Institute**)
+#### 墟岛公司/超维域/架构所(**the Architecture Institute**)
 
 ![](../.gitbook/assets/A-10-1.png)
 
@@ -155,7 +155,7 @@
 
 而后，超智主脑几乎接管了地球上的全部网络。
 
-#### 彩虹边境/游戏世界(**the Game World**)
+#### 彩虹边境(Rainbow Frontier)/游戏世界(**the Game World**)
 
 ![](../.gitbook/assets/A-11-1.png)
 
