@@ -53,6 +53,8 @@ description: Annihilation of Sprawl
 
 {% embed url="https://www.processon.com/view/link/5f6fd8171e08531ce9d97c70" %}
 
+{% embed url="https://docs.google.com/spreadsheets/d/1CGfx50yXWtumIh37bt-6gem7Ir8yyNrjGgU9tFluIrY/edit?usp=sharing" %}
+
 ## 其他小说
 
 {% embed url="https://drive.google.com/drive/folders/0BwELygENvsZXQ184NjViNTYzVXc?resourcekey=0-xvp09HQtw4Td2oeVi1p05Q&usp=sharing" %}
