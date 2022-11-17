@@ -269,8 +269,8 @@
 
 ### 金融机构
 
-{% content-ref url="huo-bi.md" %}
-[huo-bi.md](huo-bi.md)
+{% content-ref url="../wiki-1/huo-bi.md" %}
+[huo-bi.md](../wiki-1/huo-bi.md)
 {% endcontent-ref %}
 
 #### **染著金融中心**

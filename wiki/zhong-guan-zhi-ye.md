@@ -16,6 +16,6 @@
 
 ![](<../.gitbook/assets/屏幕快照 2020-10-17 下午6.54.46.png>)
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="../wiki-1/" %}
+[wiki-1](../wiki-1/)
 {% endcontent-ref %}

@@ -76,6 +76,6 @@
 
 原型参考：无
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="../wiki-1/" %}
+[wiki-1](../wiki-1/)
 {% endcontent-ref %}

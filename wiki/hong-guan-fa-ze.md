@@ -60,8 +60,8 @@
 
 {% embed url="https://www.processon.com/view/link/5f6fd8171e08531ce9d97c70" %}
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="../wiki-1/" %}
+[wiki-1](../wiki-1/)
 {% endcontent-ref %}
 
 ##
