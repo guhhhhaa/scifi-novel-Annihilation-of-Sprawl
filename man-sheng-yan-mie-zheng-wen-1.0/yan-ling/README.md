@@ -4,7 +4,7 @@
 
 
 
-![](../../.gitbook/assets/5.png)
+![](<../../.gitbook/assets/5 (1).png>)
 
 ## 第九卷 蔓生湮灭·言零 废土重建 简介
 

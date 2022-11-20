@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
-## 第三卷 蔓生湮灭·虹彩 游戏异界 简介
+## 第四卷 蔓生湮灭·虹彩 游戏异界 简介
 
 　　跨越彩虹桥，陈颖从国家虚拟历史博物馆进入到了安雅公司的游戏世界。
 
