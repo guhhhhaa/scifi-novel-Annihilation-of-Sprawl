@@ -4,7 +4,7 @@
 
 
 
-![](../../.gitbook/assets/4.png)
+![](<../../.gitbook/assets/4 (1).png>)
 
 ## 第七卷 蔓生湮灭·置换 未来战争 简介
 

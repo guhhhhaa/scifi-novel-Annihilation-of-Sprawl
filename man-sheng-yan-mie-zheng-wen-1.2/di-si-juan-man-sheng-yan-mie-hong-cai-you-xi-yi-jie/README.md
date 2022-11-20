@@ -1,4 +1,8 @@
-# 第三卷 蔓生湮灭·虹彩 游戏异界
+# 第四卷 蔓生湮灭·虹彩 游戏异界
+
+## 封面
+
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 ## 第三卷 蔓生湮灭·虹彩 游戏异界 简介
 

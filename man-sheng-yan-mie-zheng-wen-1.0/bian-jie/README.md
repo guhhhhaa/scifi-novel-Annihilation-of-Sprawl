@@ -2,7 +2,7 @@
 
 ## 封面
 
-![](../../.gitbook/assets/2.png)
+![](<../../.gitbook/assets/2 (1).png>)
 
 ## 第四卷 蔓生湮灭·边界 赛博朋克 简介
 
