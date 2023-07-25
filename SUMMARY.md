@@ -1,7 +1,9 @@
 # Table of contents
 
 * [蔓生湮灭](README.md)
-* [发布版本与新的大纲](fa-bu-ban-ben-yu-xin-de-da-gang.md)
+* [发布版本](fa-bu-ban-ben.md)
+* [蔓生湮灭简介](man-sheng-yan-mie-jian-jie.md)
+* [蔓生湮灭大纲](man-sheng-yan-mie-da-gang.md)
 * [蔓生湮灭正文1.2](man-sheng-yan-mie-zheng-wen-1.2/README.md)
   * [第一卷 蔓生湮灭·前夜 前传历史](man-sheng-yan-mie-zheng-wen-1.2/di-yi-juan-man-sheng-yan-mie-qian-ye-qian-chuan-li-shi.md)
   * [第二卷 蔓生湮灭·奇点 技术爆炸](man-sheng-yan-mie-zheng-wen-1.2/di-er-juan-man-sheng-yan-mie-qi-dian-ji-shu-bao-zha.md)
@@ -252,7 +254,6 @@
       * [陈颖说：既然大家不同意，那么我去好了。](man-sheng-yan-mie-zheng-wen-1.0/di-shi-juan-man-sheng-yan-mie-shang-han-tai-kong-ge-ju/man-sheng-yan-mie-yan-ling/di-shi-yi-zhang.md)
   * [第十一卷 蔓生湮灭·降临 外神旧日](man-sheng-yan-mie-zheng-wen-1.0/di-shi-yi-juan-man-sheng-yan-mie-jiang-lin-wai-shen-jiu-ri/README.md)
     * [宇宙缩影](man-sheng-yan-mie-zheng-wen-1.0/di-shi-yi-juan-man-sheng-yan-mie-jiang-lin-wai-shen-jiu-ri/yu-zhou-suo-ying.md)
-* [蔓生湮灭大纲](man-sheng-yan-mie-da-gang.md)
 * [蔓生湮灭世界百科1.2](wiki/README.md)
   * [宏观-世界](wiki/hong-guan.md)
   * [宏观-地理](wiki/hong-guan-di-li.md)
