@@ -26,6 +26,8 @@
 
 
 
+<figure><img src=".gitbook/assets/番茄蔓生湮灭1.jpg" alt=""><figcaption></figcaption></figure>
+
 题材：前传历史
 
 《蔓生湮灭·前夜》是一部探讨纳米危机之前历史背景的小说，描绘了一个科技飞速发展、社会变革的世界。在这个世界中，安雅公司运用先进技术和商业手段控制着多百城和尘坞市，但它背后却隐藏着更加神秘和黑暗的力量。人们开始逐渐意识到这个世界正在面临着一场即将到来的危机，各种奇怪的现象和事件也在发生。
@@ -37,6 +39,10 @@
 《蔓生湮灭·前夜》描绘了一个充满未知和危机的世界，以及人们在这个世界中生存的挣扎和探索。通过小说中的人物和事件，读者可以深入了解这个世界的历史和文化，并思考人类文明的过去与未来。
 
 ## 第二卷《蔓生湮灭·奇点》 (Annihilation of Sprawl : Singularity)
+
+
+
+<figure><img src=".gitbook/assets/番茄蔓生湮灭2.png" alt=""><figcaption></figcaption></figure>
 
 题材：技术爆炸
 
@@ -54,6 +60,10 @@
 
 ## 第三卷《蔓生湮灭·尘影》(Annihilation of Sprawl : Dust-Shadow)
 
+
+
+<figure><img src=".gitbook/assets/番茄蔓生湮灭3.png" alt=""><figcaption></figcaption></figure>
+
 题材：穿越校园
 
 在这个未来的时代，人类并没有逃离现实，而是活在现实与脑机幻境的夹缝中。人类的不断失误和无尽的欲望使纳米机器人失控，导致人类走向了自我毁灭的边缘。纳米科技和智能科技，不断地推动着人类科技的进步，但也将人类推向了深渊。
@@ -65,6 +75,10 @@
 在博物馆数据库中的尘坞大学，穿越者陈颖和改造人谷妄蓝的不经意之举，改写了整个人类文明的命运。现在，他们必须冒着巨大的风险穿越时空，以期扭转自己引发的命运。
 
 ## 第四卷《蔓生湮灭：虹彩》（Annihilation of Sprawl: Rainbow）
+
+
+
+<figure><img src=".gitbook/assets/番茄蔓生湮灭4.png" alt=""><figcaption></figcaption></figure>
 
 题材：游戏异界
 
@@ -82,6 +96,10 @@
 
 ## 第五卷《蔓生湮灭·边界》（Annihilation of Sprawl: Frontier）
 
+
+
+<figure><img src=".gitbook/assets/番茄蔓生湮灭5.png" alt=""><figcaption></figcaption></figure>
+
 题材：赛博朋克
 
 《蔓生湮灭·边界》是一部充满赛博朋克元素的小说，讲述了陈颖在逃出游戏世界后的危险旅程。他的生命受到威胁，必须在铁鼠商会的出蜗壬鼠的帮助下，完成对抗纳米灰蛊的任务。此时，陈颖的意识分裂体陈坎在多百城躲避驱逐，而女友谷妄蓝下落不明。
@@ -93,6 +111,10 @@
 这是一部充满后现代风格和赛博朋克元素的小说，读者将被带入一个独特的游戏异界，充满危险和未知。这个世界的生命形态和能力都十分神秘，而尘坞市的晶格化行动更是让人迷惑。陈颖将面临着来自多个势力的追杀和威胁，他的每一个决定都会影响整个故事的走向。这是一部富有想象力、引人入胜的小说，让读者充分体验到了赛博朋克风格的独特魅力。
 
 ## 第六卷《蔓生湮灭·幻妖》（Annihilation of Sprawl: Phantom）
+
+
+
+<figure><img src=".gitbook/assets/番茄蔓生湮灭6.png" alt=""><figcaption></figcaption></figure>
 
 题材：都市异能
 
@@ -110,6 +132,10 @@
 
 ## 第七卷《蔓生湮灭·炼金》（Annihilation of Sprawl : Alchemy）
 
+
+
+<figure><img src=".gitbook/assets/番茄蔓生湮灭7.png" alt=""><figcaption></figcaption></figure>
+
 题材：金融商业
 
 《蔓生湮灭·炼金》是一部以金融商业为主题的后现代小说。
@@ -125,6 +151,10 @@
 随着三个世界的战争一触即发，陈颖和杨子轩必须冒着生命危险，揭开安雅公司背后更加黑暗的阴谋，拯救整个世界。
 
 ## 第八卷《蔓生湮灭·置换》（Annihilation of Sprawl : Replacement）
+
+
+
+<figure><img src=".gitbook/assets/番茄蔓生湮灭8.png" alt=""><figcaption></figcaption></figure>
 
 题材：未来战争
 
@@ -142,6 +172,10 @@
 
 ## 第九卷《蔓生湮灭·噬腐》（Annihilation of Sprawl : Scavenge）
 
+
+
+<figure><img src=".gitbook/assets/番茄蔓生湮灭9.png" alt=""><figcaption></figcaption></figure>
+
 题材：极限生存
 
 《蔓生湮灭·噬腐》是一部具有极限生存主题的科幻小说。在人类与湮灭者的战争中，人类全面溃败，安雅公司开始利用边界技术在柯伊伯带附近制造虫洞星门。纳米战争被迫结束，和平再一次降临地球。
@@ -156,6 +190,10 @@
 
 ## 第十卷《蔓生湮灭·言零》（Annihilation of Sprawl : Zero-lingo）
 
+
+
+<figure><img src=".gitbook/assets/番茄蔓生湮灭10.png" alt=""><figcaption></figcaption></figure>
+
 题材：末世废土
 
 故事发生在新的千年，地球已经陷入末世危机，资源枯竭，世界进入废土时期。三个世界：灵隐界、往生界和玄冥界已经解体。为了逃离地球的末日，安雅公司已经放弃了地球和太阳系，他们经由柯伊伯带的星门乘坐宇宙飞船前往“新伊甸”。
@@ -167,6 +205,8 @@
 《蔓生湮灭·言零》是一部末世废土题材的小说，描绘了地球陷入末世危机的场景，以及人类在危机中的挣扎和求生。故事充满了惊险和悬疑，同时也探讨了一些哲学和社会问题。本书的主题涵盖了人性、信仰和命运等方面，读者可以从中找到许多启示和思考。
 
 ## 第十一卷《蔓生湮灭·殇晗》（Annihilation of Sprawl : Entropy & Enthalpy）
+
+<figure><img src=".gitbook/assets/番茄蔓生湮灭11.png" alt=""><figcaption></figcaption></figure>
 
 题材：太空歌剧
 
@@ -181,6 +221,10 @@
 《蔓生湮灭·殇晗》深入探讨了宇宙和人类的关系，以及不同力量之间的博弈和影响。故事充满了惊险和神秘感，同时也包含了一些哲学和科幻元素。通过阅读本书，读者可以深入了解宇宙的本质、人类的未来以及各种超自然力量的力量和关系。
 
 ## 第十二卷《蔓生湮灭·降临》（Annihilation of Sprawl : Arrival）
+
+
+
+<figure><img src=".gitbook/assets/番茄蔓生湮灭12.png" alt=""><figcaption></figcaption></figure>
 
 题材：外神旧日
 
