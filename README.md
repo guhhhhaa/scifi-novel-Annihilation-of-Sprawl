@@ -13,7 +13,11 @@ description: Annihilation of Sprawl
 * 原书网址：[https://guhhhhaa.gitbook.io/-1/](https://guhhhhaa.gitbook.io/-1/)
 {% endhint %}
 
-![Annihilation of Sprawl](.gitbook/assets/spaces\_-M35v6svLL3Z-GGONUMA\_avatar-1585389178125.png)
+<div align="center">
+
+<img src=".gitbook/assets/spaces_-M35v6svLL3Z-GGONUMA_avatar-1585389178125.png" alt="Annihilation of Sprawl">
+
+</div>
 
 ## 宣传网站
 

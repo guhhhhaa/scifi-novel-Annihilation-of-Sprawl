@@ -1,6 +1,7 @@
 # Table of contents
 
 * [蔓生湮灭](README.md)
+* [发布版本与新的大纲](fa-bu-ban-ben-yu-xin-de-da-gang.md)
 * [蔓生湮灭正文1.2](man-sheng-yan-mie-zheng-wen-1.2/README.md)
   * [第一卷 蔓生湮灭·前夜 前传历史](man-sheng-yan-mie-zheng-wen-1.2/di-yi-juan-man-sheng-yan-mie-qian-ye-qian-chuan-li-shi.md)
   * [第二卷 蔓生湮灭·奇点 技术爆炸](man-sheng-yan-mie-zheng-wen-1.2/di-er-juan-man-sheng-yan-mie-qi-dian-ji-shu-bao-zha.md)
